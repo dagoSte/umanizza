@@ -1,0 +1,7 @@
+Il vibe coding non è il problema. Il problema è fermarsi al vibe.
+
+Farsi scrivere il codice dall'AI è fantastico per prototipare: in un pomeriggio hai qualcosa che funziona. Ma "funziona" non vuol dire "capisco perché funziona".
+
+Il giorno che si rompe in produzione, il vibe non ti salva. Ti salva saper leggere quello che hai accettato a occhi chiusi.
+
+Usatelo per andare più veloci, non per smettere di capire.

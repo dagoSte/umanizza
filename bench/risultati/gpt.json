@@ -1,0 +1,64 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (corpus_gpt)",
+      "n": 60,
+      "parole_mediane": 109.5,
+      "punteggio_mediano": 73.1,
+      "passa": 0.133,
+      "dubbio": 0.483,
+      "segnalato": 0.383,
+      "ritmo": 77.1,
+      "concretezza": 16.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 85.1
+    },
+    {
+      "nome": "umano (social)",
+      "n": 121,
+      "parole_mediane": 101,
+      "punteggio_mediano": 99.7,
+      "passa": 0.975,
+      "dubbio": 0.025,
+      "segnalato": 0.0,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 100.0
+    },
+    {
+      "nome": "umano (prosa)",
+      "n": 101,
+      "parole_mediane": 176,
+      "punteggio_mediano": 95.2,
+      "passa": 0.822,
+      "dubbio": 0.158,
+      "segnalato": 0.02,
+      "ritmo": 95.8,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 100.0
+    }
+  ],
+  "auc": {
+    "social": {
+      "auc_totale": 0.979,
+      "ritmo": 0.712,
+      "concretezza": 0.942,
+      "slop": 0.668,
+      "impronta": 0.5,
+      "voce": 0.757
+    },
+    "prosa": {
+      "auc_totale": 0.904,
+      "ritmo": 0.612,
+      "concretezza": 0.855,
+      "slop": 0.601,
+      "impronta": 0.5,
+      "voce": 0.705
+    }
+  }
+}

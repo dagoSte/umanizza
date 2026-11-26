@@ -1,0 +1,9 @@
+## Cybersecurity nelle piccole imprese italiane: perché riguarda tutti
+
+Quando si parla di cybersecurity, si pensa spesso alle grandi aziende, alle banche o alle istituzioni. In realtà, anche una piccola impresa può essere un bersaglio: a volte proprio perché dispone di meno risorse e di strumenti di protezione più limitati. Un attacco informatico può bloccare l’attività, esporre dati di clienti e fornitori o causare perdite economiche difficili da recuperare.
+
+Le imprese italiane più piccole dipendono sempre più da email, pagamenti digitali, software gestionali e servizi online. Questa trasformazione offre nuove opportunità, ma porta con sé rischi concreti: messaggi di phishing che imitano comunicazioni legittime, password deboli o riutilizzate, dispositivi non aggiornati e copie di sicurezza assenti o inutilizzabili. Non serve un attacco sofisticato per provocare danni: spesso basta un clic o un account compromesso.
+
+La buona notizia è che la sicurezza non richiede necessariamente grandi investimenti. Abitudini semplici, come usare password uniche e robuste, attivare l’autenticazione a più fattori, installare gli aggiornamenti e conservare backup verificati, possono ridurre sensibilmente l’esposizione ai rischi. Anche formare chi lavora in azienda è fondamentale: riconoscere un tentativo di truffa può fare la differenza.
+
+Per una piccola impresa, occuparsi di cybersecurity significa proteggere il lavoro quotidiano, la fiducia dei clienti e la continuità dell’attività. È un percorso che comincia con la consapevolezza e prosegue con scelte pratiche, proporzionate alle proprie esigenze.

@@ -1,0 +1,18 @@
+Impara JavaScript da zero: il corso pratico per iniziare davvero
+
+Vuoi creare siti interattivi, app web o semplicemente entrare nel mondo della programmazione, ma non sai da dove cominciare? Questo corso è pensato per te, anche se non hai mai scritto una riga di codice.
+
+JavaScript è il linguaggio del web: lo usano praticamente tutti i siti che visiti ogni giorno, ed è uno dei più richiesti nel mondo del lavoro. In questo percorso lo imparerai passo dopo passo, con spiegazioni chiare, esempi concreti ed esercizi da svolgere subito.
+
+Cosa imparerai:
+- le basi: variabili e tipi di dato, poi condizioni e cicli
+- funzioni, array, oggetti, spiegati senza paroloni
+- come manipolare le pagine web con il DOM
+- gestire eventi e form, e i dati provenienti da servizi esterni
+- le basi della programmazione moderna con ES6+
+
+Alla fine costruirai tre piccoli progetti reali, da inserire nel tuo portfolio: una lista di attività, un quiz interattivo e una piccola app meteo.
+
+Il corso è composto da 40 lezioni video brevi, accessibili quando vuoi, con supporto in una community privata dove porre domande. Non servono requisiti: basta un computer, e la curiosità di provare.
+
+Inizia oggi: il primo modulo è gratuito.

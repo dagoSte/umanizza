@@ -1,0 +1,32 @@
+# Impara JavaScript da zero: il corso completo per principianti
+
+Questo corso è per chi vuole imparare a programmare e non sa da dove cominciare. Ti accompagna passo dopo passo in JavaScript, il linguaggio più utilizzato sul web, dalle basi assolute fino alla creazione delle tue prime applicazioni interattive. Si parte senza alcuna esperienza precedente, con un computer e una connessione a Internet.
+
+## Cosa imparerai
+
+- I fondamenti della programmazione: variabili, tipi di dati, operatori e strutture di controllo
+- Funzioni, array e oggetti, per scrivere codice ordinato e riutilizzabile
+- La manipolazione del DOM, per rendere interattive le pagine web
+- La gestione degli eventi: clic, input dell'utente, form
+- Le funzionalità moderne del linguaggio (ES6+): arrow function, destructuring, moduli, template literal
+- La programmazione asincrona con promise e async/await
+- Come comunicare con API esterne e lavorare con dati in formato JSON
+- Le tecniche di debugging e le buone pratiche usate dagli sviluppatori professionisti
+
+## Come funziona il corso
+
+Ogni lezione unisce spiegazioni chiare a esercizi pratici, perché programmare si impara soprattutto scrivendo codice. Al termine di ogni modulo metterai alla prova le tue competenze con quiz e progetti reali: una to-do list, un quiz interattivo, un'app meteo collegata a un'API e altri ancora. Alla fine del percorso avrai un piccolo portfolio da mostrare e da cui ripartire per crescere.
+
+## A chi è rivolto
+
+Il corso va bene per chi non ha mai scritto una riga di codice e vuole iniziare con il piede giusto, e per chi conosce già HTML e CSS e desidera dare vita ai propri siti. È adatto anche a chi sta pensando di cambiare carriera per entrare nello sviluppo web, e in generale a studenti, freelance e curiosi che vogliono acquisire una competenza molto richiesta.
+
+## Cosa include
+
+- Videolezioni on demand, da seguire al tuo ritmo
+- Esercizi guidati con soluzioni commentate
+- Progetti pratici da realizzare in autonomia
+- Materiali scaricabili e codice sorgente di ogni lezione
+- Attestato di completamento finale
+
+Puoi iniziare oggi e procedere una lezione alla volta. Programmare è alla portata di tutti, e con JavaScript le tue idee possono diventare progetti concreti.

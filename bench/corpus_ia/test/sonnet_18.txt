@@ -1,0 +1,7 @@
+Addestrare o specializzare un modello linguistico sul proprio computer, senza inviare un solo dato a servizi esterni, era fino a poco tempo fa roba da laboratori di ricerca. Oggi è alla portata di uno sviluppatore con una buona scheda grafica e un po' di pazienza.
+
+Il fine-tuning consiste nel prendere un modello già addestrato e proseguire l'addestramento su un insieme di dati più piccolo e specifico, per insegnargli un compito, uno stile o un lessico particolare: documenti legali, assistenza clienti, un tono di voce aziendale. I vantaggi di farlo in locale sono concreti: riservatezza totale dei dati, nessun costo per token, controllo completo sul risultato.
+
+Grazie a tecniche come LoRA e QLoRA, che modificano solo una piccola parte dei parametri e usano la quantizzazione, anche modelli da diversi miliardi di parametri si adattano a hardware consumer.
+
+In questa guida vedremo, passo dopo passo, cosa serve a livello di hardware e software, come preparare un dataset di qualità, come impostare e lanciare l'addestramento, come valutare i risultati e infine come usare il modello ottenuto. Con esempi di codice che potrete replicare dall'inizio alla fine.

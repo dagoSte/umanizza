@@ -1,0 +1,12 @@
+Scrivere test non è tempo perso: è tempo che ti restituisci con gli interessi.
+
+Senza test, ogni modifica è una scommessa. Tocchi una funzione e speri che non si rompa qualcosa dall'altra parte del progetto.
+
+Con i test, invece:
+✅ fai refactoring senza paura
+✅ scopri i bug prima dei tuoi utenti
+✅ documenti come il codice dovrebbe comportarsi
+
+Il codice senza test funziona… finché non lo tocchi.
+
+E tu, li scrivi prima o dopo? 👇

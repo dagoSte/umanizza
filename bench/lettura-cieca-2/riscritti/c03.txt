@@ -1,0 +1,9 @@
+Scegliere un database è una di quelle decisioni che sembrano tecniche ma in realtà pesano sul progetto per anni. Non esiste la scelta giusta in assoluto, esiste quella giusta per i vostri dati e il vostro modo di lavorare.
+
+Si parte dalla struttura dei dati. Se le informazioni sono ben definite e collegate tra loro, con regole precise da rispettare, conviene un database relazionale: MySQL o PostgreSQL sono scelte solide e mature. Se invece i dati sono molto variabili o ruotano attorno a documenti autonomi, un database documentale può essere più naturale.
+
+Poi c'è il carico. Quanti utenti leggono e scrivono contemporaneamente? Servono risposte in millisecondi? In molti progetti piccoli e medi, un buon database relazionale ben indicizzato regge senza problemi.
+
+Conta anche la competenza del team. Il database più potente è inutile se nessuno sa mantenerlo.
+
+Nel prossimo articolo vedremo come confrontare i principali candidati con un esempio concreto.

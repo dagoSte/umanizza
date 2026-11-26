@@ -1,0 +1,32 @@
+# MCP: il protocollo che sta cambiando il modo in cui l'intelligenza artificiale parla con il mondo
+
+Negli ultimi anni i modelli linguistici sono diventati sorprendentemente capaci: scrivono codice, riassumono documenti, ragionano su problemi complessi. Eppure, per molto tempo, hanno avuto un limite evidente: vivevano isolati. Un assistente AI poteva spiegarti come interrogare un database, ma non poteva farlo davvero. Poteva suggerirti come organizzare i file di un progetto, ma non aveva accesso al tuo repository. Ogni volta che si voleva collegare un modello a uno strumento esterno, bisognava costruire un'integrazione su misura, con il risultato di un ecosistema frammentato, fragile e difficile da mantenere.
+
+È proprio per risolvere questo problema che nasce il **Model Context Protocol**, o più semplicemente **MCP**.
+
+## Che cos'è MCP
+
+MCP è un protocollo aperto, introdotto da Anthropic alla fine del 2024, che definisce un modo standard con cui le applicazioni basate su modelli linguistici possono connettersi a fonti di dati e strumenti esterni. L'idea di fondo è semplice: invece di scrivere un connettore diverso per ogni combinazione di modello e servizio, si adotta un linguaggio comune che entrambe le parti comprendono.
+
+Un'analogia spesso utilizzata è quella della porta USB-C. Prima della sua diffusione, ogni dispositivo aveva il proprio cavo e il proprio caricatore; oggi un unico standard permette di collegare praticamente qualsiasi cosa. MCP punta a fare lo stesso per l'intelligenza artificiale: un'interfaccia universale tra i modelli e il resto del software.
+
+Dal punto di vista architetturale, il protocollo si basa su un modello client-server. Da un lato c'è l'**host**, cioè l'applicazione che ospita il modello (un IDE, un'app desktop, un agente). Dall'altro ci sono i **server MCP**, piccoli programmi che espongono capacità specifiche: l'accesso a un file system, a un database, a un'API di terze parti, a un sistema di ticketing. Un server può offrire **strumenti** (azioni che il modello può eseguire), **risorse** (dati che il modello può leggere) e **prompt** (modelli di interazione predefiniti). La comunicazione avviene tramite messaggi JSON-RPC, un formato leggero e ben conosciuto.
+
+## Perché interessa agli sviluppatori
+
+Il motivo principale per cui MCP ha catturato rapidamente l'attenzione della comunità è che riduce drasticamente il lavoro ripetitivo. Chi sviluppa un'integrazione può scrivere un server MCP una sola volta e renderlo utilizzabile da qualsiasi client compatibile. Allo stesso modo, chi costruisce un'applicazione AI può attingere a un ecosistema crescente di server già pronti, senza dover reinventare ogni collegamento.
+
+Ci sono poi altri vantaggi concreti:
+
+- **Interoperabilità.** Essendo uno standard aperto, MCP non vincola a un singolo fornitore. Un server scritto oggi può funzionare con client e modelli diversi, presenti e futuri.
+- **Separazione delle responsabilità.** La logica di accesso ai dati resta nel server, mentre il modello si limita a usarla. Questo rende il sistema più modulare, più facile da testare e da far evolvere.
+- **Controllo e sicurezza.** Il protocollo è pensato per mantenere l'utente al centro: è l'host a decidere quali server collegare e quali azioni autorizzare, invece di concedere al modello un accesso indiscriminato.
+- **Un ecosistema in rapida crescita.** Sono già disponibili SDK ufficiali per diversi linguaggi e una vasta raccolta di server per servizi diffusi come GitHub, Slack, Google Drive, database relazionali e molto altro.
+
+Per uno sviluppatore, tutto questo si traduce in una possibilità molto concreta: trasformare un assistente AI da semplice interlocutore a vero collaboratore, capace di agire sul contesto reale in cui si lavora. Leggere il codice di un progetto, aprire una pull request, consultare la documentazione interna, interrogare i log di produzione: sono operazioni che, con MCP, diventano accessibili in modo uniforme e riutilizzabile.
+
+## Cosa vedremo in questa serie
+
+In questo articolo abbiamo gettato le basi. Nei prossimi approfondiremo l'architettura del protocollo nel dettaglio, vedremo come costruire passo dopo passo il nostro primo server MCP e analizzeremo le buone pratiche per renderlo sicuro e affidabile. L'obiettivo è semplice: darti tutti gli strumenti per capire non solo che cos'è MCP, ma anche come sfruttarlo davvero nei tuoi progetti.
+
+Perché se è vero che i modelli linguistici sono diventati intelligenti, è grazie a protocolli come questo che stanno finalmente diventando anche utili.

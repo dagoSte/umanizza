@@ -1,0 +1,42 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (opus)",
+      "n": 30,
+      "parole_mediane": 280.5,
+      "punteggio_mediano": 73.2,
+      "passa": 0.067,
+      "dubbio": 0.567,
+      "segnalato": 0.367,
+      "ritmo": 100.0,
+      "concretezza": 49.8,
+      "slop": 94.8,
+      "impronta": 100.0,
+      "voce": 66.4
+    },
+    {
+      "nome": "umano (tutti)",
+      "n": 242,
+      "parole_mediane": 249.0,
+      "punteggio_mediano": 94.8,
+      "passa": 0.839,
+      "dubbio": 0.116,
+      "segnalato": 0.041,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 90.3
+    }
+  ],
+  "auc": {
+    "tutti": {
+      "auc_totale": 0.933,
+      "ritmo": 0.561,
+      "concretezza": 0.899,
+      "slop": 0.714,
+      "impronta": 0.481,
+      "voce": 0.805
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Se stai iniziando a programmare in Python, ecco tre cose che avrei voluto sapere prima.
+
+1. Scrivi codice ogni giorno, anche poco. Venti minuti al giorno battono sei ore la domenica. La memoria muscolare della sintassi si costruisce con la ripetizione, non con le maratone.
+
+2. Smetti di guardare tutorial e costruisci qualcosa. Un bot per Telegram, uno script che rinomina i file, un piccolo scraper. Quando il progetto è tuo, ti blocchi su problemi veri, e risolverli è l'unico modo per imparare davvero. Cercare l'errore su Google fa parte del mestiere, non è barare.
+
+3. Impara a leggere i messaggi di errore. Sembrano ostili, ma dicono quasi sempre riga e motivo del problema. Leggili dall'ultima riga verso l'alto prima di incollarli ovunque.
+
+Bonus: usa gli ambienti virtuali dall'inizio. Ti risparmierai notti di dipendenze che si pestano i piedi.
+
+E ricorda: sentirsi persi nelle prime settimane è normale. Tutti quelli che oggi programmano bene hanno passato la fase in cui nulla funzionava e non capivano perché.
+
+Tu a che punto sei? Scrivimi cosa stai costruendo, sono curioso.

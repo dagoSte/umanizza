@@ -1,0 +1,9 @@
+Fabbster, la stampante 3D che trasforma la plastica in filamenti
+
+Fabbster è una particolare stampante 3D che punta a rendere più semplice e accessibile la produzione di oggetti personalizzati. Il sistema utilizza piccoli elementi di plastica, chiamati stick, che vengono inseriti nella macchina e fusi durante la stampa. A differenza delle stampanti che impiegano bobine di filamento, questa soluzione permette di alimentare il dispositivo con segmenti rigidi, disponibili in diversi colori e materiali.
+
+Il progetto nasce per offrire un’alternativa pratica a chi desidera avvicinarsi alla fabbricazione digitale, dai laboratori scolastici agli appassionati di tecnologia. Una volta scelto o progettato un modello tridimensionale, la stampante deposita strati successivi di materiale fino a costruire l’oggetto. Il processo consente di realizzare prototipi, componenti e creazioni su misura, con la possibilità di intervenire sul disegno secondo le proprie necessità.
+
+La particolare modalità di caricamento è uno degli aspetti distintivi di Fabbster: gli stick, facili da maneggiare e conservare, alimentano l’estrusore senza richiedere una bobina tradizionale. Il sistema è pensato per rendere più ordinata la gestione del materiale e per ampliare le opzioni di stampa attraverso l’uso di differenti plastiche.
+
+Con Fabbster, la stampa 3D si avvicina a un pubblico più ampio e invita a sperimentare nuove idee direttamente sul banco di lavoro. Un approccio che unisce progettazione digitale e produzione concreta, trasformando un modello sullo schermo in un oggetto reale.

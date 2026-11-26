@@ -1,0 +1,30 @@
+La mia giornata da sviluppatore, senza filtri 👨‍💻☕
+
+Per anni ho lavorato "a caso": aprivo il laptop, rispondevo alle notifiche e alle 18 mi chiedevo dove fosse finito il tempo. Poi ho cambiato metodo.
+
+Ecco come la organizzo oggi 👇
+
+🌅 Mattina = deep work
+Le prime 3 ore sono sacre. Niente mail, niente Slack, niente riunioni. Solo il task più difficile della giornata, quando la testa è ancora fresca.
+
+📋 3 priorità, non 30
+La sera prima scrivo le 3 cose che devo assolutamente chiudere. Tutto il resto è un bonus.
+
+⏱️ Blocchi di tempo
+Lavoro a sessioni da 50 minuti con 10 di pausa vera, lontano dallo schermo.
+
+💬 Comunicazione a finestre
+Messaggi e code review due volte al giorno, a orari fissi. Il context switching è il vero nemico della produttività.
+
+🌇 Pomeriggio leggero
+Riunioni, refactoring, documentazione, bug minori: le attività che richiedono meno energia mentale.
+
+🔚 Rituale di chiusura
+Ultimi 10 minuti: commit, appunti su dove sono arrivato e piano per domani. Così stacco davvero.
+
+Non è un sistema perfetto, ma mi ha tolto l'ansia di "non aver fatto abbastanza".
+
+E tu come organizzi le tue giornate? Scrivimelo nei commenti 👇
+Salva il reel per quando ti serve una mano a ripartire 🔖
+
+#sviluppatore #programmatore #developerlife #produttività #coding #deepwork #programmazione #webdeveloper #softwaredeveloper #vitadadeveloper #timemanagement #tech

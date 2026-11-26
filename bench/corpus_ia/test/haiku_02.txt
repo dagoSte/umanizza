@@ -1,0 +1,9 @@
+Se stai iniziando a programmare in Python, ecco tre consigli che avrei voluto sentirmi dire il primo giorno.
+
+Il primo: scrivi codice ogni giorno, anche poco. Venti minuti di pratica costante valgono più di una maratona di otto ore ogni due settimane. Python è un linguaggio leggibile, quindi puoi permetterti di sperimentare subito: apri l'interprete, prova una funzione, rompi qualcosa, vedi cosa succede.
+
+Il secondo: non limitarti a guardare tutorial. Dopo ogni video o capitolo, prova a costruire un piccolo progetto senza copiare il codice. Una calcolatrice, un convertitore di valute, uno script che rinomina i file di una cartella. Sbagliare e correggere è il modo in cui si impara davvero.
+
+Il terzo: impara a leggere gli errori. Il traceback che Python ti mostra contiene quasi sempre la risposta, basta leggere l'ultima riga e il numero di riga indicato. Chi si spaventa davanti a un errore si ferma; chi lo legge con calma va avanti.
+
+Buon codice a tutti, e se avete domande lasciatele nei commenti.

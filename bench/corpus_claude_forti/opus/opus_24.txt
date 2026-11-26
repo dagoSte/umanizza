@@ -1,0 +1,34 @@
+Per anni ho pensato che bastasse scrivere buon codice.
+Che il talento, prima o poi, si sarebbe notato da solo.
+
+Mi sbagliavo.
+
+Il codice migliore che ho scritto è chiuso in repository privati che nessuno vedrà mai. Le soluzioni più eleganti sono finite sepolte in qualche pull request approvata alle sei di sera di un venerdì. E nel frattempo, colleghi con competenze simili alle mie ricevevano proposte, inviti a parlare, opportunità che io nemmeno sapevo esistessero.
+
+La differenza? Loro raccontavano quello che facevano.
+
+Ecco cosa ho capito sul personal branding per noi sviluppatori:
+
+🔹 **Non è vanità, è documentazione.**
+Scrivere di un bug risolto, di una scelta architetturale, di un errore commesso significa lasciare una traccia utile. Per gli altri e per te stesso tra due anni.
+
+🔹 **Non serve essere esperti, serve essere un passo avanti.**
+C'è sempre qualcuno che sta affrontando il problema che tu hai superato la settimana scorsa. Il tuo punto di vista da "quasi principiante" è spesso più chiaro di quello di un guru.
+
+🔹 **Le opportunità arrivano a chi è visibile.**
+Recruiter, CTO, founder cercano persone di cui possono capire il modo di pensare. Un CV elenca tecnologie. Un post, un articolo, un progetto open source mostrano come ragioni.
+
+🔹 **Insegnare è il modo più rapido per imparare.**
+Quando provi a spiegare qualcosa in modo semplice, scopri subito cosa non hai davvero capito.
+
+🔹 **La coerenza batte la perfezione.**
+Non serve un blog con design impeccabile o un canale con migliaia di iscritti. Basta condividere con regolarità, in modo autentico.
+
+Il personal branding non significa diventare influencer.
+Significa smettere di essere invisibili.
+
+Se sei uno sviluppatore e non hai mai pubblicato nulla, inizia piccolo: racconta l'ultima cosa che hai imparato. Anche se ti sembra banale. Soprattutto se ti sembra banale.
+
+E tu? Condividi il tuo lavoro o preferisci lasciar parlare il codice? 👇
+
+#PersonalBranding #SoftwareDevelopment #Developer #CareerGrowth #TechCommunity

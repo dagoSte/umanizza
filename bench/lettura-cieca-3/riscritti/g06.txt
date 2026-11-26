@@ -1,0 +1,9 @@
+## Sicurezza informatica nelle piccole imprese italiane
+
+Quando si parla di sicurezza informatica, si pensa spesso alle grandi aziende, alle banche o alle istituzioni. Anche una piccola impresa può essere un bersaglio, a volte proprio perché ha meno risorse per proteggersi. Un attacco informatico può bloccare l'attività e causare perdite economiche difficili da recuperare. Può anche esporre i dati di clienti e fornitori.
+
+Le imprese italiane più piccole dipendono sempre più da email e software gestionali, oltre che dai pagamenti digitali e dagli altri servizi online. Un messaggio di phishing può sembrare una comunicazione legittima. A volte basta un clic per cadere nella trappola, mentre una password debole o riutilizzata può facilitare l'accesso a un account.
+
+Per ridurre i rischi si può cominciare con misure che richiedono poca spesa. Usare password uniche e robuste e attivare l'autenticazione a più fattori aiuta a proteggere gli account. Conviene installare gli aggiornamenti e verificare che dai backup si riescano a recuperare i dati. Chi lavora in azienda può imparare a riconoscere un tentativo di truffa prima di cliccare.
+
+Per una piccola impresa, occuparsi di sicurezza informatica significa proteggere il lavoro quotidiano e la fiducia dei clienti. Si può cominciare con le misure più adatte alle esigenze dell'azienda.

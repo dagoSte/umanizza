@@ -1,0 +1,11 @@
+**AMD svela specifiche e benchmark delle APU Trinity**
+
+AMD ha reso pubbliche le prime informazioni dettagliate sulle APU di seconda generazione note con il nome in codice Trinity, destinate a sostituire le soluzioni Llano sia nei notebook sia nei desktop. I nuovi processori combinano core x86 basati sull'architettura Piledriver, evoluzione di Bulldozer, con una sezione grafica integrata derivata dalle schede Radeon HD 7000, in particolare dall'architettura VLIW4 della serie Northern Islands.
+
+Secondo i dati diffusi dall'azienda, Trinity offre un incremento delle prestazioni di calcolo di circa il 25% rispetto alla generazione precedente, mentre sul fronte grafico il miglioramento dichiarato raggiunge il 50% in determinati scenari. AMD sottolinea inoltre i progressi in termini di efficienza energetica, con una maggiore autonomia nei sistemi portatili grazie a una gestione più raffinata dei consumi e a frequenze dinamiche più flessibili.
+
+I benchmark pubblicati comprendono test sintetici e applicazioni di uso quotidiano, tra cui riproduzione video in alta definizione, giochi e software di editing multimediale. In diversi casi le APU Trinity risultano nettamente più veloci delle rivali Intel dotate di grafica integrata, soprattutto nei carichi che sfruttano l'acceleratore grafico. Sul piano della potenza pura di calcolo, invece, i processori della concorrenza mantengono ancora un vantaggio in alcune applicazioni.
+
+Le nuove APU supportano DirectX 11, la tecnologia Eyefinity per la gestione di più display e le funzioni di decodifica e codifica video hardware. Il socket destinato ai modelli desktop sarà il nuovo FM2, non compatibile con le piattaforme FM1 di Llano.
+
+Per quanto riguarda la disponibilità, AMD prevede l'arrivo dei primi sistemi con Trinity nel corso dei prossimi mesi, con i modelli mobile in arrivo per primi e le versioni desktop a seguire. Restano da confermare prezzi e configurazioni definitive, che dovrebbero essere comunicati vicino al lancio commerciale.

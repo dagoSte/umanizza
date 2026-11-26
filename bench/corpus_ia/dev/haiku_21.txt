@@ -1,0 +1,9 @@
+Sul vibe coding ho un'opinione un po' controcorrente: è uno strumento potente, ma va usato sapendo cosa si sta facendo.
+
+Descrivere a voce o in chat quello che si vuole e vedere un'applicazione prendere forma in pochi minuti è un'esperienza che emoziona, e fa bene. Permette a chi non ha una formazione da sviluppatore di costruire prototipi, verificare idee e imparare guardando il codice generato. Per questo lo trovo prezioso.
+
+Il problema nasce quando si smette di leggere ciò che viene prodotto. Il codice funziona finché funziona, poi arriva un bug in produzione, una falla di sicurezza, una dipendenza che nessuno ricorda di aver aggiunto. Chi non capisce la struttura del proprio progetto fatica a rimediare.
+
+La mia regola è semplice: usate il vibe coding per esplorare, ma per tutto ciò che va in produzione leggete, testate e capite ogni parte. La velocità è un vantaggio solo se non vi toglie il controllo.
+
+E voi, come lo usate? Ditemelo.

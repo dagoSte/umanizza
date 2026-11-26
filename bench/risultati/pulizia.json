@@ -1,0 +1,7 @@
+{
+ "descrizione": "Sostituzioni di lessico di humanize.py sui 444 testi umani del benchmark (UD, dev e test), ricontrollate una per una nel contesto il 26/11/2026 (versione 1.6.0).",
+ "testi": 444,
+ "sostituzioni": 9,
+ "sbagliate": 0,
+ "note": "Una sola discutibile: «In conclusione,» tolto a inizio frase in un testo divulgativo; la frase resta corretta. Le altre 62 modifiche sono tipografiche (virgolette curve rese dritte)."
+}

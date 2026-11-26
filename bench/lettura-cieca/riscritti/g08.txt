@@ -1,0 +1,5 @@
+Scrivere test ti permette di cambiare il codice con più serenità.
+
+Un test rende più chiaro cosa dovrebbe fare il programma. Dopo una modifica, puoi rieseguirlo per scoprire se hai rotto qualcosa che funzionava, prima che se ne accorga chi usa il programma.
+
+Non serve testare tutto subito. Comincia dal comportamento più importante e aggiungi un test alla volta.

@@ -1,0 +1,9 @@
+Tre consigli per iniziare a programmare in Python:
+
+1. Parti dalle basi: variabili, condizioni, cicli e funzioni. Capire bene questi mattoni ti aiuta più che imparare a memoria tanti comandi.
+
+2. Scrivi codice ogni giorno, anche solo per 15 minuti. Un piccolo programma, come una lista della spesa o un quiz, vale più di ore passate solo a guardare tutorial.
+
+3. Quando incontri un errore, leggilo con calma: spesso indica già la riga e il problema. Imparare a fare debugging fa parte della programmazione.
+
+Comincia con poco, fai pratica e costruisci un progetto alla volta.

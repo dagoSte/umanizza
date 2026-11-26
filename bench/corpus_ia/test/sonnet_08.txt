@@ -1,0 +1,16 @@
+Scrivere test sembra tempo perso. Finché non rompi qualcosa in produzione alle 18:45 di venerdì.
+
+I test non servono a dimostrare che il codice funziona oggi. Servono a dirti, tra sei mesi, se hai rotto qualcosa mentre ne aggiungevi dell'altro. Sono una rete di sicurezza che ti permette di rifattorizzare senza sudare freddo.
+
+Qualche motivo concreto per cui li scrivo:
+
+- Trovo i bug prima degli utenti.
+- Documentano il comportamento atteso meglio di qualsiasi commento.
+- Mi costringono a scrivere funzioni piccole e chiare, perché il codice incasinato è difficile da testare.
+- Dormo meglio dopo un deploy.
+
+Non serve il 100% di copertura. Parti dai punti critici: la logica di business, i calcoli, tutto ciò che, se si rompe, ti fa perdere soldi o fiducia. Un test che copre la cosa giusta vale più di cento test inutili.
+
+E se il progetto non ne ha nemmeno uno, comincia da uno solo. Il prossimo bug che trovi? Scrivi prima il test che lo riproduce, poi correggilo. È il modo più semplice per iniziare.
+
+Voi testate sempre o solo quando vi è già successo il disastro?

@@ -1,0 +1,7 @@
+Gli agenti AI autonomi mi incuriosiscono, ma non mi convincono quando l'autonomia diventa una parola magica.
+
+Delegare un compito ha senso se l'agente capisce l'obiettivo, sa entro quali limiti muoversi e lascia tracce di ciò che ha fatto. Altrimenti è una scatola nera con accesso ai nostri strumenti.
+
+Mi interessa un'AI che sappia agire da sola sulle cose reversibili e chiedere conferma quando la posta in gioco sale. Preferisco l'affidabilità alle demo spettacolari.
+
+Per fidarmi di un agente guardo quanto bene sa quando fermarsi, prima ancora di quanto riesce a fare senza di noi.

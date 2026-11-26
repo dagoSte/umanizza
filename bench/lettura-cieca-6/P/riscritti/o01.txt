@@ -1,0 +1,5 @@
+**Oggetto: Open source, novembre in fermento: i modelli che hanno fatto parlare di sé**
+
+Ciao,
+
+benvenuto al nuovo numero della nostra newsletter dedicata all'intelligenza artificiale aperta. I modelli linguistici open source non hanno rallentato nemmeno questo mese. Tra nuove release e aggiornamenti di famiglie già note, i benchmark hanno ridisegnato le classifiche e la distanza tra modelli aperti e soluzioni proprietarie continua ad assottigliarsi. Il protagonista di novembre è stato [nome modello], rilasciato da [organizzazione] con licenza [tipo di licenza], che si è fatto notare tra chi segue questi modelli per [caratteristica principale: es. prestazioni nel ragionamento, efficienza, finestra di contesto]. Accanto a lui si conferma una tendenza ormai chiara, quella dei modelli sempre più compatti e ottimizzati, che girano anche su hardware consumer senza rinunciare alla qualità. Più sotto vediamo nel dettaglio cosa è cambiato e cosa vale davvero la pena provare, e che cosa significa tutto questo per sviluppatori, aziende e appassionati.

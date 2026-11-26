@@ -1,0 +1,34 @@
+Il burnout nel tech non arriva all'improvviso. Arriva un deploy alla volta.
+
+Prima salti la pausa pranzo "solo oggi". Poi rispondi a Slack alle 23. Poi ti accorgi che il codice che una volta ti divertiva ora ti pesa, e che la domenica sera hai già il nodo allo stomaco.
+
+Ecco cosa ho imparato, a volte nel modo più duro:
+
+1. Riconosci i segnali presto
+Cinismo, stanchezza che non passa con il weekend, fatica a concentrarti su task che prima facevi a occhi chiusi. Non è pigrizia. È un sistema in sovraccarico.
+
+2. Metti confini concreti, non buoni propositi
+"Lavorerò meno" non funziona. "Notifiche spente dopo le 19" sì. Togli Slack e la mail dal telefono personale. Blocca in calendario le ore di lavoro profondo.
+
+3. Parla prima di crollare
+Con il tuo manager, con il team, con chi ti fidi. Un carico insostenibile è un problema di pianificazione, non una tua mancanza. E se non viene ascoltato, anche questa è un'informazione utile.
+
+4. Smetti di misurarti in ore
+Nel nostro settore si confonde ancora la presenza con il valore. Otto ore lucide valgono più di dodici trascinate. I bug peggiori li ho scritti quasi sempre dopo le 21.
+
+5. Coltiva qualcosa che non abbia uno schermo
+Sport, cucina, camminate, uno strumento musicale. Serve un posto dove la tua mente non stia ottimizzando niente.
+
+6. Non devi imparare tutto
+Ogni settimana esce un nuovo framework, un nuovo tool, un nuovo modello. Inseguirli tutti è il modo più rapido per esaurirsi. Scegli cosa approfondire e lascia andare il resto senza sensi di colpa.
+
+7. Chiedi aiuto a un professionista
+Se il malessere dura da settimane, parlarne con uno psicologo non è una resa. È manutenzione, come quella che facciamo ai sistemi a cui teniamo.
+
+Un'ultima cosa per chi guida un team: il burnout raramente è un problema individuale. Scadenze irrealistiche, reperibilità continua e priorità che cambiano ogni settimana lo producono in serie. La cultura si vede da come si comporta chi sta in alto, non dai benefit.
+
+La carriera è una maratona. Nessuno la vince correndo ogni chilometro come uno sprint.
+
+E voi? Qual è il confine che vi ha aiutato di più a proteggere la vostra energia?
+
+#burnout #tech #benessere #lavoro #sviluppatori #leadership #salutementale

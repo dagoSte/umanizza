@@ -1,0 +1,42 @@
+**JavaScript da zero: il corso completo per diventare sviluppatore web**
+
+Hai sempre desiderato creare siti web interattivi, ma non sai da dove cominciare? Questo corso è pensato per te. Parte dalle basi assolute e ti accompagna passo dopo passo dentro JavaScript, il linguaggio di programmazione che fa funzionare il web di oggi.
+
+A chi è rivolto
+
+Il corso è adatto a principianti senza alcuna esperienza di programmazione, studenti che vogliono avvicinarsi allo sviluppo web, professionisti che desiderano riqualificarsi nel settore tech e designer che vogliono rendere dinamici i propri progetti. Conoscenze pregresse non ne servono. Ti bastano un computer, una connessione internet e tanta curiosità.
+
+Cosa imparerai
+
+- I fondamenti della programmazione: variabili, tipi di dato, operatori e strutture di controllo
+- Come utilizzare funzioni, array e oggetti per organizzare bene il codice
+- La manipolazione del DOM per rendere le pagine web interattive
+- La gestione degli eventi: click, input da tastiera, invio di moduli
+- La programmazione asincrona con callback, Promise e async/await
+- Come comunicare con server e API esterne tramite Fetch
+- Le funzionalità moderne di ES6+: arrow function, destructuring, moduli e template literal
+- Le buone pratiche per scrivere codice leggibile e facile da mantenere
+- Le tecniche di debug per individuare e correggere gli errori
+
+Come è strutturato
+
+Il percorso ha oltre 12 moduli progressivi e più di 80 video lezioni di durata contenuta, da seguire ai tuoi ritmi. In ogni modulo trovi esercizi pratici, quiz di verifica e sfide di programmazione per consolidare quanto appreso. Imparerai facendo: la teoria è sempre accompagnata da esempi che puoi applicare subito.
+
+I progetti pratici
+
+Durante il corso realizzerai progetti reali da inserire nel tuo portfolio, tra cui una calcolatrice interattiva, un'app per la gestione delle attività (to-do list), un gioco a quiz e un'applicazione meteo che recupera dati in tempo reale da un'API.
+
+Cosa include
+
+- Accesso illimitato e a vita a tutti i contenuti
+- Materiali scaricabili e codice sorgente di ogni lezione
+- Community di studenti con cui confrontarsi e condividere i progressi
+- Supporto diretto dell'istruttore per dubbi e domande
+- Aggiornamenti gratuiti con le novità del linguaggio
+- Attestato di completamento al termine del percorso
+
+Al termine del corso
+
+Saprai scrivere programmi JavaScript in autonomia e creare pagine web dinamiche e interattive. Potrai anche affrontare con sicurezza lo studio di framework e librerie come React, Vue o Node.js: avrai basi solide per proseguire nel tuo percorso come sviluppatore.
+
+Inizia oggi: il tuo primo programma è a pochi clic di distanza.

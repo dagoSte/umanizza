@@ -1,0 +1,22 @@
+[
+  {"coppia": 1, "meglio": "A", "persona": "A", "motivo": "I consigli partono subito con verbi concreti e il saluto finale ha il tono spontaneo di un post tra programmatori."},
+  {"coppia": 2, "meglio": "B", "persona": "A", "motivo": "B apre con una domanda facile da seguire, mentre A sembra il racconto spontaneo di un'abitudine grazie alla chiusa sul test in CI."},
+  {"coppia": 3, "meglio": "B", "persona": "B", "motivo": "La data del passaggio arriva subito e «All'inizio un po' di fatica ci sarà, lo so» suona come una frase rivolta ai propri colleghi."},
+  {"coppia": 4, "meglio": "A", "persona": "B", "motivo": "A mette in risalto il beneficio con una frase efficace per una landing page, mentre B usa il tono pratico di chi spiega come si usa l'app."},
+  {"coppia": 5, "meglio": "A", "persona": "B", "motivo": "A ha il ritmo breve e visivo di una caption, mentre B racconta la pausa pranzo con il tono quotidiano di chi c'era."},
+  {"coppia": 6, "meglio": "B", "persona": "B", "motivo": "B distingue con chiarezza LoRA e QLoRA e introduce i passaggi della guida con un tono da sviluppatore che spiega il lavoro a un collega."},
+  {"coppia": 7, "meglio": "B", "persona": "B", "motivo": "Il passaggio su come reagisce a un «no» dà al post un ritmo più naturale e fa capire che cosa l'autore ha cambiato nel proprio modo di lavorare."},
+  {"coppia": 8, "meglio": "A", "persona": "A", "motivo": "L'attacco rapido e il «Mi ha convinto meno» fanno sentire con chiarezza la voce di chi ha appena finito il libro."},
+  {"coppia": 9, "meglio": "B", "persona": "B", "motivo": "L'esempio del test rieseguito dopo una modifica chiarisce il vantaggio con parole che sembrano quelle di un collega."},
+  {"coppia": 10, "meglio": "A", "persona": "A", "motivo": "La cadenza di «al mattino lavoravo, il pomeriggio scendevo in spiaggia» fa scorrere la caption e dà al soggiorno il ritmo di un ricordo personale."},
+  {"coppia": 11, "meglio": "A", "persona": "A", "motivo": "L'attacco aggancia subito chi comincia e «Poi eseguilo» ha il ritmo naturale di un consiglio dato mentre si programma insieme."},
+  {"coppia": 12, "meglio": "A", "persona": "A", "motivo": "Una notizia per paragrafo e i link a parte rendono le informazioni facili da trovare, con il tono asciutto di una breve redazionale."},
+  {"coppia": 13, "meglio": "B", "persona": "B", "motivo": "Espressioni come «quando la promessa salta» tengono vivo il ritmo e il post si chiude sul consiglio pratico che il lettore può usare."},
+  {"coppia": 14, "meglio": "B", "persona": "B", "motivo": "I due esempi si seguono facilmente e il confronto prima e dopo, compreso il tempo delle correzioni, dà al post il tono concreto di chi propone una prova sul lavoro."},
+  {"coppia": 15, "meglio": "A", "persona": "A", "motivo": "A entra subito nel tema e dettagli come la domenica sera e i «qualche no» del manager fanno prendere corpo al racconto."},
+  {"coppia": 16, "meglio": "B", "persona": "A", "motivo": "B spiega con più fluidità come lavora l'agenzia, mentre il ritmo più irregolare di A fa sentire la voce di chi la racconta."},
+  {"coppia": 17, "meglio": "A", "persona": "pari", "motivo": "A concentra in una frase le informazioni sull'allegato e le due email mantengono lo stesso tono professionale."},
+  {"coppia": 18, "meglio": "A", "persona": "A", "motivo": "Gli inviti diretti a chi legge e il richiamo ai modelli provati nel lavoro quotidiano danno alla newsletter una voce riconoscibile."},
+  {"coppia": 19, "meglio": "B", "persona": "A", "motivo": "B chiarisce i ruoli di editor, client e server, mentre A apre sul problema concreto della build con la naturalezza di chi lo ha appena incontrato."},
+  {"coppia": 20, "meglio": "A", "persona": "A", "motivo": "A spiega il beneficio dal punto di vista di chi visita il sito e propone l'incontro con parole che suonano naturali in una mail a un cliente."}
+]

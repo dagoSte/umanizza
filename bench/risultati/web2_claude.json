@@ -1,0 +1,42 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (test)",
+      "n": 30,
+      "parole_mediane": 174.5,
+      "punteggio_mediano": 73.3,
+      "passa": 0.2,
+      "dubbio": 0.5,
+      "segnalato": 0.3,
+      "ritmo": 98.8,
+      "concretezza": 25.4,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 83.7
+    },
+    {
+      "nome": "umano (tutti)",
+      "n": 242,
+      "parole_mediane": 249.0,
+      "punteggio_mediano": 94.8,
+      "passa": 0.839,
+      "dubbio": 0.116,
+      "segnalato": 0.041,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 90.3
+    }
+  ],
+  "auc": {
+    "tutti": {
+      "auc_totale": 0.907,
+      "ritmo": 0.625,
+      "concretezza": 0.965,
+      "slop": 0.576,
+      "impronta": 0.481,
+      "voce": 0.623
+    }
+  }
+}

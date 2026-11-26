@@ -1,0 +1,7 @@
+Ciao a tutti,
+
+bentornati con la newsletter del mese. Se vi sembra che i modelli linguistici open source corrano più veloci di quanto riusciamo a seguirli, non siete soli: anche per me tenere il passo è diventato un lavoro a tempo pieno. Per questo ho selezionato ciò che conta davvero, lasciando fuori il rumore.
+
+Il primo paragrafo, subito, per chi ha poco tempo: questo mese la tendenza più interessante non è l'arrivo di un singolo modello gigantesco, ma il miglioramento dei modelli di dimensioni medie. Diverse nuove release tra i 7 e i 30 miliardi di parametri offrono prestazioni che, solo un anno fa, richiedevano modelli molto più grandi. Significa che girano su una workstation o su un buon portatile, con costi e latenza ridotti e dati che restano in casa vostra. Migliorano soprattutto il ragionamento, la gestione del contesto lungo e il supporto per l'italiano, un tasto dolente fino a poco tempo fa.
+
+Più sotto trovate le novità in dettaglio, un confronto pratico tra i modelli che ho provato personalmente e qualche consiglio per scegliere quello giusto in base all'hardware che avete. Buona lettura!

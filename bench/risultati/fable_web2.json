@@ -1,0 +1,42 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (fable)",
+      "n": 30,
+      "parole_mediane": 276.5,
+      "punteggio_mediano": 70.7,
+      "passa": 0.1,
+      "dubbio": 0.533,
+      "segnalato": 0.367,
+      "ritmo": 100.0,
+      "concretezza": 40.7,
+      "slop": 94.7,
+      "impronta": 100.0,
+      "voce": 57.7
+    },
+    {
+      "nome": "umano (tutti)",
+      "n": 242,
+      "parole_mediane": 249.0,
+      "punteggio_mediano": 94.8,
+      "passa": 0.839,
+      "dubbio": 0.116,
+      "segnalato": 0.041,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 90.3
+    }
+  ],
+  "auc": {
+    "tutti": {
+      "auc_totale": 0.934,
+      "ritmo": 0.531,
+      "concretezza": 0.895,
+      "slop": 0.69,
+      "impronta": 0.481,
+      "voce": 0.83
+    }
+  }
+}

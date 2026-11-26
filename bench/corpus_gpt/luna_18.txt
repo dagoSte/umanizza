@@ -1,0 +1,5 @@
+Il fine-tuning di un modello linguistico permette di adattare un modello già addestrato a un compito, a un settore o a uno stile specifico. Eseguirlo in locale significa lavorare sul proprio computer o su un server sotto il proprio controllo, senza inviare dati a servizi esterni. È una scelta utile quando la riservatezza è importante o si desidera avere maggiore controllo sull’intero processo.
+
+In questa guida vedremo i passaggi fondamentali: scegliere un modello compatibile con l’hardware disponibile, preparare un dataset di qualità, configurare l’ambiente e addestrare il modello. Esploreremo anche tecniche più leggere, come il fine-tuning con LoRA, che riducono memoria e tempi di calcolo senza modificare tutti i parametri del modello.
+
+Non serve partire da un’infrastruttura sofisticata, ma è importante avere aspettative realistiche: la memoria della GPU, la dimensione del modello e la qualità degli esempi influenzano il risultato. Con una preparazione attenta, anche una configurazione locale può essere un buon punto di partenza per sperimentare e creare un assistente più adatto alle proprie esigenze.

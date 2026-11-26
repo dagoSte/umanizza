@@ -1,0 +1,5 @@
+Un modello linguistico può rispondere senza errori a una richiesta di assistenza e assegnarle comunque un'etichetta diversa ogni volta che la legge. Se vuoi che usi sempre le categorie del tuo sistema, puoi mostrargli esempi di richieste già classificate e addestrarlo a seguire lo stesso criterio. È questo, in pratica, il fine-tuning.
+
+Farlo in locale significa eseguire l'addestramento sul tuo computer, con il controllo diretto sui dati e sui file prodotti. Quello che puoi fare dipende soprattutto dalla memoria disponibile e dalla dimensione del modello. Tecniche come LoRA permettono di ridurre le risorse necessarie addestrando un piccolo insieme di parametri aggiuntivi e mantenendo fissi quelli del modello di partenza.
+
+In questa guida partiremo da un compito preciso, sceglieremo un modello adatto alla macchina e prepareremo gli esempi di addestramento. Terremo da parte un gruppo di richieste e le useremo prima con il modello di base, poi con quello addestrato, per vedere se la classificazione migliora.

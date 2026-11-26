@@ -1,0 +1,7 @@
+Con la crescita dell'intelligenza artificiale e dei servizi digitali, i data center sono diventati una delle infrastrutture più importanti di oggi, e tra le più energivore. Per questo la sostenibilità energetica è una condizione perché il progresso tecnologico possa continuare.
+
+Come abbiamo visto, le soluzioni esistono e in parte sono già applicate: alimentazione da fonti rinnovabili, sistemi di raffreddamento più efficienti, recupero del calore di scarto per riscaldare edifici vicini, hardware progettato per consumare meno a parità di prestazioni. Conta anche il software, perché ottimizzare i carichi di lavoro e scegliere modelli di dimensioni adeguate al compito riduce sprechi evitabili.
+
+La tecnologia però non basta. Servono trasparenza sui consumi reali e standard condivisi per misurarli, e la pianificazione deve tenere conto dell'impatto sulle reti elettriche e sulle risorse idriche locali. Un ruolo ce l'hanno le aziende e i governi, e anche noi utenti.
+
+La domanda giusta, quindi, è come continuare a crescere in modo responsabile. I data center del futuro dovranno essere più potenti e anche più sobri. Si può fare, se si comincia adesso.

@@ -1,0 +1,9 @@
+Mi chiedete spesso come riesco a far stare tutto in una giornata da sviluppatore, quindi eccola, più o meno.
+
+Parto sempre dalla mattina con una cosa sola: decidere qual è il problema più importante da risolvere oggi. Non la lista infinita di cose da fare, una sola. Lo scrivo su un foglio, lo metto in alto, e il resto aspetta.
+
+Poi faccio due blocchi di lavoro profondo, da circa un'ora e mezza ciascuno, senza notifiche e senza email aperte. È lì che scrivo il codice più difficile, quello che richiede di tenere in testa tutta la logica di un modulo. Il pomeriggio è più adatto a revisioni, riunioni e piccole correzioni.
+
+Alla fine della giornata annoto in due righe cosa ho fatto e cosa resta per domani. Sembra un dettaglio, ma ritrovare il filo il giorno dopo è la cosa che mi fa risparmiare più tempo.
+
+Voi come organizzate le vostre giornate? Ditemi nei commenti, sono curioso.

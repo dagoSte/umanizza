@@ -1,0 +1,102 @@
+[
+ {
+  "coppia": 1,
+  "meglio": "A",
+  "persona": "pari"
+ },
+ {
+  "coppia": 2,
+  "meglio": "pari",
+  "persona": "pari"
+ },
+ {
+  "coppia": 3,
+  "meglio": "pari",
+  "persona": "pari"
+ },
+ {
+  "coppia": 4,
+  "meglio": "A",
+  "persona": "A"
+ },
+ {
+  "coppia": 5,
+  "meglio": "B",
+  "persona": "B"
+ },
+ {
+  "coppia": 6,
+  "meglio": "B",
+  "persona": "B"
+ },
+ {
+  "coppia": 7,
+  "meglio": "A",
+  "persona": "A"
+ },
+ {
+  "coppia": 8,
+  "meglio": "A",
+  "persona": "A"
+ },
+ {
+  "coppia": 9,
+  "meglio": "A",
+  "persona": "A"
+ },
+ {
+  "coppia": 10,
+  "meglio": "pari",
+  "persona": "pari"
+ },
+ {
+  "coppia": 11,
+  "meglio": "A",
+  "persona": "pari"
+ },
+ {
+  "coppia": 12,
+  "meglio": "pari",
+  "persona": "A"
+ },
+ {
+  "coppia": 13,
+  "meglio": "pari",
+  "persona": "pari"
+ },
+ {
+  "coppia": 14,
+  "meglio": "A",
+  "persona": "A"
+ },
+ {
+  "coppia": 15,
+  "meglio": "B",
+  "persona": "pari"
+ },
+ {
+  "coppia": 16,
+  "meglio": "B",
+  "persona": "A"
+ },
+ {
+  "coppia": 17,
+  "meglio": "B",
+  "persona": "B"
+ },
+ {
+  "coppia": 18,
+  "meglio": "A",
+  "persona": "pari"
+ },
+ {
+  "coppia": 19,
+  "meglio": "B",
+  "persona": "pari"
+ },
+ {
+  "coppia": 20,
+  "meglio": "A",
+  "persona": "pari"
+ }
+]

@@ -1,0 +1,9 @@
+Vuoi imparare JavaScript da zero, senza farti travolgere da teoria inutile? Questo corso è pensato per te.
+
+Partiamo dalle basi: variabili, tipi di dato, condizioni e cicli, e poi funzioni, oggetti e array. Ogni lezione è breve e si conclude con un esercizio pratico, così da mettere subito in pratica quello che hai appena imparato. Non serve alcuna esperienza di programmazione, bastano un computer e un browser.
+
+Nella seconda parte costruiremo piccoli progetti reali: una lista di cose da fare, un gioco semplice, un'applicazione che legge dati da internet. Imparerai a manipolare la pagina, a gestire gli eventi dell'utente e a organizzare il codice in modo ordinato.
+
+Il corso è online, con video, materiali scaricabili e una community in cui fare domande. Potrai seguire al tuo ritmo, dal telefono o dal computer.
+
+Iscriviti oggi e scrivi il tuo primo programma in JavaScript già questa settimana.

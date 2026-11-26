@@ -1,0 +1,5 @@
+Un negozio online deve sapere se l’ultimo articolo in magazzino è già stato venduto. Un’app per il meteo deve registrare misurazioni continue e recuperare in fretta quelle di una certa ora. Entrambi i progetti hanno bisogno di un database, ma gli chiedono di fare lavori diversi.
+
+Per scegliere, parti dalle operazioni che il tuo progetto deve svolgere ogni giorno. Quali informazioni dovrai leggere insieme? Quali aggiornamenti devono riuscire tutti insieme, come la conferma di un ordine e la riduzione delle scorte? Quanto cresceranno i dati e chi si occuperà dei backup e del ripristino in caso di guasto?
+
+Le risposte danno un senso al confronto tra le soluzioni. Se il tuo progetto ruota attorno a clienti, ordini e pagamenti, un database relazionale è un buon punto di partenza. Se lavori soprattutto con documenti dalla struttura variabile o con misurazioni raccolte a intervalli regolari, vale la pena valutare strumenti pensati per quei dati. In ogni caso, prima di decidere, prova le due o tre operazioni più importanti con un volume di dati realistico. È lì che le differenze tra i database diventano concrete.

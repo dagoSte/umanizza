@@ -1,0 +1,5 @@
+Il vibe coding è un ottimo modo per trasformare un’idea in qualcosa di concreto prima che la motivazione svanisca.
+
+Ma il codice che funziona oggi non è per forza codice che reggerà domani. L’AI accelera la partenza; capire, verificare e mantenere ciò che ha prodotto resta responsabilità nostra.
+
+Usiamolo per sperimentare, non per smettere di pensare.

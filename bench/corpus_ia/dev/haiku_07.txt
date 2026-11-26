@@ -1,0 +1,9 @@
+Qualche anno fa ho fondato una startup convinto che il problema più difficile fosse la tecnologia. Mi sbagliavo. Il problema più difficile era capire cosa le persone volevano davvero, e saperlo prima di spendere mesi a costruire la cosa sbagliata.
+
+Ho imparato a parlare con i clienti prima di scrivere una riga di codice. Ho imparato che un prototipo brutto, mostrato in fretta, insegna più di un prodotto perfetto arrivato tardi. E ho imparato che le decisioni vanno prese con i dati che hai, non con quelli che vorresti avere.
+
+Ho imparato anche a dire di no. Ogni funzionalità in più è un costo: di manutenzione, di attenzione, di complessità. Tagliare è spesso più utile che aggiungere.
+
+Infine, ho capito quanto conti il team. Non i fondatori da soli, ma le persone che ogni giorno rendono possibile il lavoro, spesso in silenzio, spesso senza riconoscimento.
+
+Se state pensando di fondare qualcosa, scrivetemi. Sono felice di raccontarvi gli errori che ho fatto, perché sono quelli che vi risparmieranno più tempo.

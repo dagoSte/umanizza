@@ -1,0 +1,32 @@
+**Oggetto:** Proposta di rifacimento del sito web aziendale
+
+Gentile [Nome Cliente],
+
+La ringrazio per il tempo che ci ha dedicato nel nostro ultimo incontro. Come anticipato, Le scrivo per presentarLe la nostra proposta di rifacimento del sito web di [Nome Azienda].
+
+Dall'analisi che abbiamo condotto sul sito attuale sono emersi alcuni aspetti sui quali riteniamo utile intervenire:
+
+- **Grafica e immagine:** l'impostazione visiva non rispecchia più l'identità e il posizionamento attuale dell'azienda.
+- **Navigazione da dispositivi mobili:** il sito non è pienamente ottimizzato per smartphone e tablet, da cui oggi proviene la maggior parte delle visite.
+- **Velocità e prestazioni:** i tempi di caricamento penalizzano l'esperienza degli utenti e il posizionamento sui motori di ricerca.
+- **Gestione dei contenuti:** l'aggiornamento di testi e immagini risulta poco pratico per il Suo team.
+
+La nostra proposta prevede:
+
+1. Una nuova veste grafica, coerente con l'immagine aziendale e orientata alla chiarezza.
+2. Una struttura dei contenuti riorganizzata, per guidare il visitatore verso la richiesta di contatto o di preventivo.
+3. Uno sviluppo responsive, ottimizzato per tutti i dispositivi.
+4. L'ottimizzazione SEO di base e la migrazione dei contenuti esistenti, senza perdita del posizionamento acquisito.
+5. Un pannello di gestione semplice, con una sessione di formazione dedicata al Suo personale.
+6. L'adeguamento alle normative vigenti in materia di privacy e cookie.
+
+Per la realizzazione stimiamo circa [numero] settimane dall'approvazione del progetto, articolate in quattro fasi: analisi, progettazione grafica, sviluppo, test e messa online. L'investimento previsto è di € [importo] + IVA, comprensivo di [numero] mesi di assistenza dopo la pubblicazione. In allegato trova il preventivo dettagliato.
+
+Resto a Sua disposizione per qualsiasi chiarimento e, se lo ritiene utile, sarei lieto di fissare una breve chiamata nei prossimi giorni per illustrarLe la proposta e raccogliere le Sue osservazioni.
+
+In attesa di un Suo cortese riscontro, Le porgo cordiali saluti.
+
+[Nome e Cognome]
+[Ruolo]
+[Nome Azienda]
+[Telefono] | [Email]

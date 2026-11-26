@@ -1,0 +1,29 @@
+name: test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    # Python 3.9 non ha build per Ubuntu 26.04: tutte le versioni girano su 24.04.
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.9", "3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Test
+        run: python -m unittest discover tests -v
+      - name: Esempi del README
+        run: |
+          python skills/umanizza/detect.py bench/esempi/riscritto.txt
+          python skills/umanizza/detect.py bench/esempi/peggiore.txt && exit 1 || test $? -eq 1

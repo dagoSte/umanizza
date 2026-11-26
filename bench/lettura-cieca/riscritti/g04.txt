@@ -1,0 +1,5 @@
+L'11 novembre Tether AI Research ha pubblicato i pesi di BotPsy-0.8B con licenza Apache 2.0. Ha 800 milioni di parametri. È pensato per gestire email e appuntamenti direttamente sul telefono. Può usare le funzioni delle app in locale, per esempio per aggiungere un appuntamento al calendario.
+
+Il 16 novembre l'Institute of Foundation Models ha pubblicato il rapporto tecnico su K2-Horizon. Il documento descrive l'addestramento dei sei modelli linguistici open source, lanciati a settembre, e spiega come sono stati preparati i dati.
+
+[Annuncio di BotPsy](https://qvac.tether.io/blog/on-device-ai-agent-botpsy) · [Rapporto su K2-Horizon](https://arxiv.org/abs/2611.21003)

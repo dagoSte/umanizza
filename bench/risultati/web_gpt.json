@@ -1,0 +1,42 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (corpus_gpt)",
+      "n": 60,
+      "parole_mediane": 109.5,
+      "punteggio_mediano": 73.1,
+      "passa": 0.133,
+      "dubbio": 0.483,
+      "segnalato": 0.383,
+      "ritmo": 77.1,
+      "concretezza": 16.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 85.1
+    },
+    {
+      "nome": "umano (tutti)",
+      "n": 243,
+      "parole_mediane": 260,
+      "punteggio_mediano": 94.9,
+      "passa": 0.885,
+      "dubbio": 0.082,
+      "segnalato": 0.033,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 91.4
+    }
+  ],
+  "auc": {
+    "tutti": {
+      "auc_totale": 0.91,
+      "ritmo": 0.774,
+      "concretezza": 0.918,
+      "slop": 0.552,
+      "impronta": 0.484,
+      "voce": 0.59
+    }
+  }
+}

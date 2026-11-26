@@ -1,0 +1,52 @@
+[
+ {
+  "coppia": 1,
+  "testo": "x04",
+  "A": "originale"
+ },
+ {
+  "coppia": 2,
+  "testo": "x07",
+  "A": "originale"
+ },
+ {
+  "coppia": 3,
+  "testo": "x02",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 4,
+  "testo": "x03",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 5,
+  "testo": "x09",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 6,
+  "testo": "x06",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 7,
+  "testo": "x05",
+  "A": "originale"
+ },
+ {
+  "coppia": 8,
+  "testo": "x01",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 9,
+  "testo": "x10",
+  "A": "originale"
+ },
+ {
+  "coppia": 10,
+  "testo": "x08",
+  "A": "originale"
+ }
+]

@@ -1,0 +1,11 @@
+# Cos’è il protocollo MCP e perché interessa agli sviluppatori
+
+Un assistente basato sull’intelligenza artificiale può scrivere codice o rispondere a una domanda, ma spesso ha bisogno di accedere anche a strumenti e dati esterni: per esempio, leggere un documento, consultare un database o avviare un’azione in un’applicazione. Il **Model Context Protocol**, abbreviato in **MCP**, è uno standard aperto che aiuta a collegare i modelli di intelligenza artificiale a queste risorse in modo coerente.
+
+Si può immaginare MCP come un adattatore comune. Invece di creare un’integrazione diversa per ogni modello e per ogni servizio, uno sviluppatore può realizzare un server MCP che espone funzionalità specifiche. Un’applicazione compatibile con MCP può poi collegarsi a quel server e rendere disponibili al modello strumenti, dati o istruzioni pertinenti.
+
+Per esempio, un server MCP potrebbe consentire di cercare file in una cartella, interrogare un sistema aziendale o recuperare informazioni da una documentazione tecnica. Il modello può usare queste capacità durante una conversazione, entro i limiti definiti dall’applicazione e dalle autorizzazioni concesse.
+
+Per gli sviluppatori, il vantaggio principale è la **riusabilità**: un’integrazione costruita secondo uno standard condiviso può essere utilizzata da diverse applicazioni compatibili, senza dover riprogettare da zero ogni collegamento. MCP offre inoltre un modo uniforme per descrivere ciò che un servizio può fare e per scambiare le informazioni necessarie.
+
+Il protocollo non rende automaticamente sicura o affidabile ogni integrazione. Chi sviluppa deve comunque decidere quali dati esporre, quali azioni consentire e come gestire le autorizzazioni. Ma, con la crescente diffusione di assistenti capaci di interagire con software e archivi, MCP propone una base comune per costruire queste connessioni. Per questo interessa agli sviluppatori: permette di trasformare un modello isolato in un componente che può collaborare con strumenti e sistemi reali.

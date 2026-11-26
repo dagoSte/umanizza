@@ -1,0 +1,33 @@
+{
+ "conferma_umani_web3": {
+  "n": 231,
+  "DUBBIO": 24,
+  "N/D": 2,
+  "PASSA": 199,
+  "SEGNALATO": 6
+ },
+ "conferma_umani_partut": {
+  "n": 31,
+  "DUBBIO": 17,
+  "PASSA": 14
+ },
+ "conferma_generati": {
+  "n": 50,
+  "DUBBIO": 21,
+  "PASSA": 15,
+  "SEGNALATO": 14
+ },
+ "verifica_umani": {
+  "n": 464,
+  "DUBBIO": 47,
+  "N/D": 1,
+  "PASSA": 404,
+  "SEGNALATO": 12
+ },
+ "verifica_generati": {
+  "n": 150,
+  "DUBBIO": 77,
+  "PASSA": 19,
+  "SEGNALATO": 54
+ }
+}

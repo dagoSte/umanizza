@@ -1,0 +1,7 @@
+**Open source, il punto del mese: modelli più piccoli, ambizioni più grandi**
+
+Care lettrici e cari lettori,
+
+se c'è una cosa che novembre ci ha ricordato è che nel mondo dei modelli linguistici open source non esistono mesi tranquilli. Tra nuovi rilasci, aggiornamenti di licenza e benchmark che cambiano classifica da una settimana all'altra, tenere il passo è diventato quasi un lavoro a tempo pieno. Per questo abbiamo fatto ordine noi: ecco che cosa conta davvero e perché.
+
+La notizia che ha fatto più discutere è il rilascio di [nome del modello] da parte di [organizzazione]: un modello a pesi aperti che, secondo i primi test indipendenti, si avvicina alle prestazioni dei sistemi proprietari in [ambito, es. ragionamento e generazione di codice], pur restando abbastanza leggero da girare su hardware alla portata di un piccolo team. Non è un caso isolato, ma la conferma di una tendenza che seguiamo da tempo. La corsa non si gioca più soltanto sul numero di parametri: contano l'efficienza, la possibilità di eseguire i modelli in locale e la chiarezza delle condizioni d'uso. Proprio su quest'ultimo punto, la licenza scelta ([tipo di licenza]) ha riacceso il dibattito su che cosa significhi davvero "open" quando si parla di intelligenza artificiale, e ci torniamo più avanti in questo numero.

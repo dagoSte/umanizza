@@ -1,0 +1,7 @@
+Un codice senza test è come un ponte costruito senza collaudo: finché nessuno ci passa sopra, sembra a posto.
+
+Scrivere test è il modo più economico per scoprire che una modifica innocua ha rotto una funzione lontana dal punto in cui stavate lavorando. Ogni test è una piccola promessa su come deve comportarsi il codice. Quando la promessa salta lo sapete subito, non tre settimane dopo in produzione.
+
+Non serve partire con una copertura del cento per cento. Iniziate dalle parti che cambiano spesso e da quelle che fanno più danni quando si rompono: i calcoli, le regole di business, i punti in cui i dati entrano nel sistema. Un test ben scritto documenta anche il comportamento atteso, e questo aiuta chi arriverà dopo di voi.
+
+Quando trovate un bug, scrivete prima il test che lo riproduce e solo dopo correggete il codice. Quel bug non tornerà.

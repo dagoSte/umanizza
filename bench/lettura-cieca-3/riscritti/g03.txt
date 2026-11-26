@@ -1,0 +1,5 @@
+Un test torna utile anche sei mesi dopo averlo scritto, quando stai per cambiare una funzione e non ricordi più a cosa serviva quel controllo.
+
+Il test ti ricorda cosa deve succedere: «Se il pagamento fallisce, il carrello resta intatto». Se la tua modifica svuota il carrello, te ne accorgi prima che te lo segnali un cliente.
+
+Parti dall'ultimo bug che hai corretto. Scrivi il test che avresti voluto avere quando è saltato fuori.

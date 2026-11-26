@@ -1,0 +1,45 @@
+**Oggetto: Passaggio al nuovo software gestionale – informazioni e prossimi passi**
+
+Gentili colleghe e colleghi,
+
+vi informiamo che a partire da [data] l'azienda adotterà un nuovo software gestionale, [nome del software], che sostituirà progressivamente il sistema attualmente in uso.
+
+**Perché questo cambiamento**
+
+Il sistema attuale non è più in grado di rispondere adeguatamente alle esigenze operative dell'azienda. Il nuovo gestionale ci permetterà di:
+
+- semplificare e velocizzare le attività quotidiane;
+- integrare in un'unica piattaforma funzioni oggi distribuite su strumenti diversi;
+- migliorare la qualità e la reperibilità dei dati;
+- ridurre gli errori dovuti a inserimenti manuali e duplicazioni.
+
+**Tempistiche**
+
+- **[data]** – avvio delle sessioni di formazione;
+- **[data]** – migrazione dei dati dal vecchio sistema;
+- **[data]** – entrata in funzione del nuovo gestionale;
+- **[data]** – dismissione definitiva del sistema precedente.
+
+Durante la fase di migrazione, prevista per [data/periodo], il sistema attuale potrebbe non essere disponibile. Vi comunicheremo con anticipo gli orari esatti dell'interruzione.
+
+**Formazione**
+
+Tutto il personale interessato parteciperà a sessioni di formazione organizzate per reparto. Il calendario dettagliato vi sarà inviato nei prossimi giorni dal vostro responsabile. La partecipazione è obbligatoria. Saranno inoltre messi a disposizione manuali e guide rapide consultabili in qualsiasi momento.
+
+**Cosa vi chiediamo**
+
+- Completare entro il [data] le attività in sospeso sul sistema attuale;
+- verificare la correttezza dei dati di vostra competenza e segnalare eventuali anomalie;
+- partecipare alle sessioni di formazione previste per il vostro reparto.
+
+**Assistenza**
+
+Per qualsiasi dubbio o difficoltà potete rivolgervi a [nome referente / ufficio IT] all'indirizzo [email] o al numero interno [numero]. Nelle prime settimane successive all'avvio sarà attivo un servizio di supporto dedicato.
+
+Siamo consapevoli che ogni cambiamento richiede un periodo di adattamento e vi ringraziamo fin d'ora per la collaborazione e la disponibilità.
+
+Cordiali saluti,
+
+[Nome e Cognome]
+[Ruolo]
+[Azienda]

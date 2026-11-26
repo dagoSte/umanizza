@@ -1,0 +1,3 @@
+Mi piacciono gli agenti AI autonomi quando posso dirgli «occupatene tu» e tornare a fare altro. Se un test fallisce, voglio che leggano l’errore, cerchino la causa e riprovino. Se per andare avanti devono cambiare un dato in produzione, voglio che mi chiamino.
+
+Per me la prova è questa: quando torno, riesco a capire in due minuti cosa hanno fatto e perché? Se devo rileggere tutta la conversazione per scoprirlo, tanto valeva farlo insieme.

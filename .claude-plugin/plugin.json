@@ -1,0 +1,23 @@
+{
+  "name": "umanizza",
+  "version": "1.6.0",
+  "description": "Humanizer per testi in italiano generati con l'IA: rimuove i segni ricorrenti della scrittura automatica con script locali e misura il risultato su cinque controlli.",
+  "author": {
+    "name": "Stefano D'Agostino",
+    "url": "https://github.com/dagoSte"
+  },
+  "license": "MIT",
+  "keywords": [
+    "italiano",
+    "humanizer",
+    "slop",
+    "scrittura",
+    "ai-detection",
+    "threads",
+    "linkedin",
+    "codex",
+    "gpt"
+  ],
+  "homepage": "https://github.com/dagoSte/umanizza",
+  "repository": "https://github.com/dagoSte/umanizza"
+}

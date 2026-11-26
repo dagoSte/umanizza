@@ -1,0 +1,7 @@
+Prima di aprire Slack, mi chiedo una cosa: se oggi riuscissi a finire un solo task, quale sceglierei?
+
+Parto da quello. Tengo la mattina per scrivere codice o affrontare il bug che mi porto dietro da ieri. Dopo pranzo raggruppo le review, i messaggi e le call, quando posso.
+
+A fine giornata mi lascio una riga con il prossimo passo. Tipo «controllare perché questo test fallisce solo in CI». Così domani so già dove rimettere le mani.
+
+Tu da cosa parti quando apri il computer?

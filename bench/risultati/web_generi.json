@@ -1,0 +1,130 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (corpus_gpt)",
+      "n": 60,
+      "parole_mediane": 109.5,
+      "punteggio_mediano": 73.1,
+      "passa": 0.133,
+      "dubbio": 0.483,
+      "segnalato": 0.383,
+      "ritmo": 77.1,
+      "concretezza": 16.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 85.1
+    },
+    {
+      "nome": "umano (blog)",
+      "n": 50,
+      "parole_mediane": 247.5,
+      "punteggio_mediano": 96.3,
+      "passa": 0.88,
+      "dubbio": 0.08,
+      "segnalato": 0.04,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 93.0
+    },
+    {
+      "nome": "umano (articoli)",
+      "n": 50,
+      "parole_mediane": 290.5,
+      "punteggio_mediano": 97.0,
+      "passa": 0.92,
+      "dubbio": 0.02,
+      "segnalato": 0.06,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 92.6
+    },
+    {
+      "nome": "umano (azienda)",
+      "n": 43,
+      "parole_mediane": 231,
+      "punteggio_mediano": 91.7,
+      "passa": 0.791,
+      "dubbio": 0.186,
+      "segnalato": 0.023,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 85.9
+    },
+    {
+      "nome": "umano (comunicati)",
+      "n": 50,
+      "parole_mediane": 292.0,
+      "punteggio_mediano": 94.4,
+      "passa": 0.92,
+      "dubbio": 0.04,
+      "segnalato": 0.04,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 91.4
+    },
+    {
+      "nome": "umano (servizi)",
+      "n": 50,
+      "parole_mediane": 252.0,
+      "punteggio_mediano": 93.9,
+      "passa": 0.9,
+      "dubbio": 0.1,
+      "segnalato": 0.0,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 90.2
+    }
+  ],
+  "auc": {
+    "blog": {
+      "auc_totale": 0.912,
+      "ritmo": 0.813,
+      "concretezza": 0.918,
+      "slop": 0.594,
+      "impronta": 0.48,
+      "voce": 0.64
+    },
+    "articoli": {
+      "auc_totale": 0.913,
+      "ritmo": 0.797,
+      "concretezza": 0.935,
+      "slop": 0.545,
+      "impronta": 0.47,
+      "voce": 0.613
+    },
+    "azienda": {
+      "auc_totale": 0.895,
+      "ritmo": 0.805,
+      "concretezza": 0.887,
+      "slop": 0.489,
+      "impronta": 0.5,
+      "voce": 0.539
+    },
+    "comunicati": {
+      "auc_totale": 0.913,
+      "ritmo": 0.71,
+      "concretezza": 0.933,
+      "slop": 0.558,
+      "impronta": 0.47,
+      "voce": 0.589
+    },
+    "servizi": {
+      "auc_totale": 0.914,
+      "ritmo": 0.75,
+      "concretezza": 0.912,
+      "slop": 0.567,
+      "impronta": 0.5,
+      "voce": 0.56
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Scegliere un database è una delle prime decisioni importanti quando si avvia un progetto software. La scelta influenza il modo in cui i dati vengono organizzati, la velocità delle operazioni, la facilità di manutenzione e la possibilità di crescere nel tempo. Non esiste però un database migliore in assoluto: quello giusto dipende da ciò che il progetto deve fare e dai vincoli con cui deve convivere.
+
+Per cominciare, conviene chiedersi quali dati si devono gestire e come verranno usati. Informazioni strutturate e collegate tra loro, come ordini, clienti e fatture, spesso si prestano a un database relazionale. Contenuti più flessibili o con forme diverse possono invece trovare spazio in soluzioni documentali o in altri database NoSQL. Anche le modalità di accesso contano: il progetto dovrà eseguire molte ricerche, aggiornamenti frequenti o elaborazioni in tempo reale?
+
+È utile considerare fin dall'inizio anche il volume previsto e il numero di utenti, oltre alle competenze disponibili nel team. Un sistema potente ma difficile da gestire può diventare un peso; una soluzione semplice, invece, potrebbe non bastare se il progetto crescerà rapidamente. Poi ci sono i costi, i backup, la sicurezza e gli strumenti di monitoraggio, e va valutata l'integrazione con l'infrastruttura già in uso.
+
+In questa guida vedremo come confrontare le principali esigenze e riconoscere i compromessi tra le diverse categorie di database, per arrivare a una scelta pratica che vada bene per il progetto di oggi e regga anche domani.

@@ -1,0 +1,36 @@
+Accesso via Satellite | Portale BL
+
+**Accesso via Satellite**
+
+**Descrizione del servizio wholesale Internet SAT per Portale al Cittadino**
+
+Il servizio wholesale Internet SAT è la soluzione pensata per garantire la connettività a banda larga nelle aree non raggiunte dalle reti in fibra ottica o in rame, dove i collegamenti tradizionali non sono disponibili o non risultano economicamente sostenibili. Attraverso un collegamento satellitare bidirezionale, il servizio consente ai cittadini residenti nelle cosiddette aree a fallimento di mercato di accedere a Internet con prestazioni adeguate alle esigenze quotidiane.
+
+**Come funziona**
+
+Il servizio si basa su una piccola antenna parabolica, installata presso l'abitazione o la sede dell'utente e orientata verso il satellite geostazionario. L'antenna è collegata a un modem satellitare che distribuisce il segnale ai dispositivi tramite cavo di rete o Wi-Fi. Il traffico viene instradato verso una stazione di terra, la quale lo immette nella rete dell'operatore e quindi su Internet.
+
+**Caratteristiche principali**
+
+- Copertura sull'intero territorio nazionale, comprese zone montane, rurali e isolate
+- Velocità di navigazione in download fino a 30 Mbit/s e in upload fino a 3 Mbit/s, in base al profilo scelto
+- Installazione dell'apparato d'utente effettuata da tecnici qualificati
+- Assistenza tecnica dedicata e monitoraggio continuo della qualità del servizio
+- Possibilità di scegliere tra diversi profili di traffico mensile
+- Compatibilità con i principali operatori retail che desiderano ampliare la propria offerta
+
+**A chi è rivolto**
+
+Il servizio è destinato agli operatori di telecomunicazioni che intendono commercializzare offerte di accesso a Internet ai propri clienti finali attraverso la nostra infrastruttura. Gli operatori acquistano la capacità satellitare in modalità wholesale e gestiscono in autonomia il rapporto commerciale con l'utente, mentre noi ci occupiamo della parte tecnica, dalla fornitura degli apparati all'attivazione della linea.
+
+**Portale al Cittadino**
+
+Per facilitare la richiesta e il monitoraggio delle attivazioni, mettiamo a disposizione il Portale al Cittadino. Attraverso questa piattaforma online è possibile verificare la disponibilità del servizio presso il proprio indirizzo, inoltrare la richiesta di attivazione, seguire lo stato dell'installazione e consultare le informazioni sul proprio collegamento. Il portale è accessibile da computer, tablet e smartphone e guida l'utente in ogni passaggio con procedure semplici e trasparenti.
+
+**Vantaggi**
+
+Il servizio permette di ridurre il divario digitale, favorisce lo sviluppo economico dei territori meno serviti e consente a famiglie, professionisti e piccole imprese di utilizzare strumenti come smart working, didattica a distanza, servizi pubblici online e intrattenimento in streaming. I tempi di attivazione sono rapidi, poiché non sono necessari scavi o lavori infrastrutturali.
+
+**Richiedi informazioni**
+
+Per conoscere i profili disponibili, le condizioni economiche e le modalità di adesione, contatta il nostro servizio commerciale oppure accedi all'area riservata del portale.

@@ -1,0 +1,102 @@
+[
+ {
+  "coppia": 1,
+  "testo": "f01",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 2,
+  "testo": "o03",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 3,
+  "testo": "f08",
+  "A": "originale"
+ },
+ {
+  "coppia": 4,
+  "testo": "o09",
+  "A": "originale"
+ },
+ {
+  "coppia": 5,
+  "testo": "o10",
+  "A": "originale"
+ },
+ {
+  "coppia": 6,
+  "testo": "f09",
+  "A": "originale"
+ },
+ {
+  "coppia": 7,
+  "testo": "o07",
+  "A": "originale"
+ },
+ {
+  "coppia": 8,
+  "testo": "f07",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 9,
+  "testo": "o08",
+  "A": "originale"
+ },
+ {
+  "coppia": 10,
+  "testo": "f05",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 11,
+  "testo": "o02",
+  "A": "originale"
+ },
+ {
+  "coppia": 12,
+  "testo": "o04",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 13,
+  "testo": "f04",
+  "A": "originale"
+ },
+ {
+  "coppia": 14,
+  "testo": "o01",
+  "A": "originale"
+ },
+ {
+  "coppia": 15,
+  "testo": "f06",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 16,
+  "testo": "f10",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 17,
+  "testo": "f03",
+  "A": "originale"
+ },
+ {
+  "coppia": 18,
+  "testo": "f02",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 19,
+  "testo": "o05",
+  "A": "riscritto"
+ },
+ {
+  "coppia": 20,
+  "testo": "o06",
+  "A": "riscritto"
+ }
+]

@@ -1,0 +1,7 @@
+Hai appena iniziato a programmare in Python? Tre consigli che ti risparmiano un po’ di frustrazione 🐍
+
+1. Parti da qualcosa che useresti davvero. Anche un programmino che divide il conto tra amici basta per fare pratica con input, numeri e condizioni.
+
+2. Quando copi un esempio, cambia una riga e prova a indovinare cosa succederà. Poi eseguilo. È lì che inizi a capire come funziona.
+
+3. Quando compare un errore, leggi prima l’ultima riga. Ti dice che tipo di errore è. Poi risali al punto del tuo codice che l’ha causato.

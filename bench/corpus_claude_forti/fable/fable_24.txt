@@ -1,0 +1,32 @@
+Per anni ho pensato che il codice parlasse da solo.
+
+Scrivevo software che funzionava, chiudevo i ticket, consegnavo in tempo. Ero convinto che bastasse. Poi ho visto colleghi con competenze simili alle mie ricevere proposte, inviti a conferenze e offerte di collaborazione che a me non arrivavano mai.
+
+La differenza non era la bravura. Era la visibilità.
+
+Il personal branding per uno sviluppatore non significa diventare influencer o pubblicare un post motivazionale al giorno. Significa rendere visibile quello che sai fare a chi non lavora nella tua stessa stanza.
+
+Ecco cosa ho capito lungo il percorso:
+
+1. Il tuo lavoro migliore è spesso invisibile. Il refactoring che ha dimezzato i tempi di build, il bug risolto alle due di notte, l'architettura che ha retto al picco di traffico: se non lo racconti tu, non lo farà nessuno.
+
+2. Scrivere ti rende uno sviluppatore migliore. Spiegare un concetto in modo chiaro ti obbliga a capirlo davvero. Ogni articolo che ho scritto mi ha insegnato qualcosa che credevo di sapere già.
+
+3. Le opportunità arrivano dalle persone, non dai curriculum. Un recruiter legge il tuo CV per trenta secondi. Chi ha letto i tuoi contenuti per mesi sa già come ragioni.
+
+4. Non serve essere esperti per condividere. Basta essere un passo avanti a qualcun altro. L'errore che hai risolto ieri è il problema che qualcuno cercherà su Google domani.
+
+5. La costanza batte la perfezione. Un contributo open source, un post tecnico al mese, una risposta utile in una community: piccoli gesti che nel tempo costruiscono una reputazione.
+
+Da dove partire, in concreto:
+
+→ Sistema il profilo GitHub e scrivi README decenti per i tuoi progetti
+→ Racconta un problema reale che hai affrontato e come l'hai risolto
+→ Commenta con sostanza i contenuti degli altri, invece di limitarti a un like
+→ Partecipa a un meetup locale, e prima o poi proponi un talk
+
+Il personal branding non è vanità. È il modo in cui il mercato scopre che esisti.
+
+E tu, cosa stai facendo per rendere visibile il tuo lavoro? Raccontamelo nei commenti.
+
+#personalbranding #sviluppatori #softwaredevelopment #carriera #tech

@@ -1,0 +1,9 @@
+# Come scegliere un database per il proprio progetto
+
+Prima o poi, in ogni progetto software, arriva il momento di decidere dove e come salvare i dati. È una scelta che spesso si prende in fretta, magari affidandosi allo strumento che si conosce meglio o a quello di cui tutti parlano in quel momento. Eppure il database è una delle fondamenta dell'intera applicazione: ne influenza le prestazioni, la capacità di crescere, i costi di gestione e perfino il modo in cui il team scrive il codice. Cambiarlo a progetto avviato è possibile, ma raramente è indolore.
+
+Il problema è che oggi l'offerta è vastissima. Accanto ai classici database relazionali come PostgreSQL e MySQL troviamo soluzioni documentali, chiave-valore, a grafo, colonnari, per serie temporali e, più di recente, vettoriali. Ognuna nasce per risolvere bene una certa categoria di problemi e ognuna comporta dei compromessi. Il database migliore in assoluto non esiste. Va scelto in base ai dati che devi gestire, alle operazioni che dovrai eseguire e alle risorse che hai a disposizione.
+
+Per orientarsi conviene quindi partire dalle domande, prima che dalla tecnologia. Bisogna chiedersi che forma hanno i dati e quanto sono collegati tra loro, e quante letture e quante scritture ci si aspetta. Poi quanto conta la coerenza rispetto alla velocità. Infine chi si occuperà della manutenzione, e con quale budget.
+
+Più sotto trovi i criteri da considerare, le principali famiglie di database con i rispettivi punti di forza e limiti, e alcuni errori comuni da evitare. Alla fine dovresti avere un metodo per arrivare a una decisione consapevole, che regga anche quando il progetto sarà cresciuto.

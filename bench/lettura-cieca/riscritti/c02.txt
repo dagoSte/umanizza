@@ -1,0 +1,9 @@
+Questo mese i modelli linguistici open source si sono mossi parecchio. Proviamo a guardare con calma che cosa è cambiato.
+
+La novità più interessante riguarda l'efficienza. Diversi rilasci recenti puntano su modelli di dimensioni medie che, con una quantizzazione ben fatta, girano su hardware domestico o su una workstation di fascia alta senza perdere troppo nella qualità delle risposte. Se lavorate con dati sensibili e non volete mandarli a servizi esterni, questo vi riguarda da vicino.
+
+Le licenze, invece, sono sempre più diverse tra loro: alcuni modelli escono con licenze permissive, altri con condizioni più restrittive per l'uso commerciale. Prima di integrare un modello in un prodotto leggete con attenzione il testo della licenza, senza fermarvi al titolo.
+
+Cresce anche l'attenzione per le lingue diverse dall'inglese. Il supporto all'italiano migliora, anche se nei test di qualità il divario non è ancora colmato.
+
+Nel prossimo numero vi raccontiamo quali modelli abbiamo provato davvero nel nostro lavoro quotidiano.

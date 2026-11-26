@@ -1,0 +1,3 @@
+Impara JavaScript da zero con un corso online pratico e accessibile, pensato per chi non ha mai programmato. Partirai dalle basi: variabili, tipi di dati, condizioni e cicli. Poi scoprirai come creare funzioni, gestire eventi e rendere le pagine web interattive.
+
+Con esercizi guidati e piccoli progetti, metterai subito in pratica ciò che impari e costruirai solide basi per proseguire nello sviluppo web. Alla fine del corso saprai scrivere i tuoi primi programmi JavaScript e avrai gli strumenti per continuare a migliorare con sicurezza.

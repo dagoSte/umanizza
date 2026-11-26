@@ -1,0 +1,30 @@
+01|post LinkedIn|perché la tua azienda dovrebbe adottare l'intelligenza artificiale generativa
+02|post Threads|tre consigli per chi inizia a programmare in Python
+03|caption Instagram per un reel|come organizzo la mia giornata da sviluppatore
+04|newsletter (apertura e primo paragrafo)|le novità sui modelli linguistici open source di questo mese
+05|articolo di blog (introduzione)|cos'è il protocollo MCP e perché interessa agli sviluppatori
+06|email a un cliente|proposta di rifacimento del sito web aziendale
+07|post LinkedIn|cosa ho imparato fondando una startup
+08|post Threads|l'importanza di scrivere test nel codice
+09|descrizione di un prodotto per una landing page|un'app per gestire le prenotazioni di un ristorante
+10|caption Instagram|un viaggio in Puglia per lavorare da remoto
+11|articolo di blog (introduzione)|la cybersecurity nelle piccole imprese italiane
+12|post LinkedIn|come gestire il burnout nel lavoro tech
+13|thread di Threads (primo post)|i migliori strumenti per la produttività nel 2026
+14|recensione di un libro su un blog|un saggio sul futuro del lavoro con l'IA
+15|post Facebook di una pizzeria|l'apertura di un nuovo locale in centro
+16|email interna aziendale|il passaggio a un nuovo software gestionale
+17|post LinkedIn|perché il lavoro da remoto funziona
+18|articolo di blog (introduzione)|guida al fine-tuning di un modello linguistico in locale
+19|caption Instagram per un reel|tre errori che fanno i principianti con ChatGPT
+20|testo "chi siamo" per il sito di un'agenzia web
+21|post Threads|un'opinione sul vibe coding
+22|newsletter (apertura)|i consigli della settimana per freelance
+23|comunicato stampa|il lancio di una piattaforma per la digitalizzazione dei comuni
+24|post LinkedIn|l'importanza del personal branding per gli sviluppatori
+25|descrizione di un corso online|imparare JavaScript da zero
+26|articolo di blog (introduzione)|come scegliere un database per il proprio progetto
+27|post Threads|cosa penso degli agenti AI autonomi
+28|caption Instagram|una giornata in ufficio con il team
+29|post LinkedIn|ringraziamento al team dopo il rilascio di un prodotto
+30|articolo di blog (conclusione)|sulla sostenibilità energetica dei data center

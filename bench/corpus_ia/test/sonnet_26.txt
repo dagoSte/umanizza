@@ -1,0 +1,7 @@
+La scelta del database è una di quelle decisioni che sembrano tecniche e invece segnano il destino di un progetto. Cambiarla a metà strada è costoso, a volte dolorosissimo, quindi vale la pena ragionarci all'inizio.
+
+Il problema è che la rete è piena di consigli di parte. C'è chi giura che SQL sia l'unica strada seria e chi sostiene che i database NoSQL abbiano reso obsoleto tutto il resto. La realtà, come spesso accade, è più sfumata: non esiste il database migliore in assoluto, esiste quello più adatto ai tuoi dati, ai tuoi accessi e al tuo team.
+
+In questo articolo ti propongo un metodo semplice per decidere. Partiremo da quattro domande: che forma hanno i tuoi dati? Quanta coerenza ti serve? Come leggerai e scriverai le informazioni? Quanto prevedi di crescere? Le risposte ti guideranno tra database relazionali, documentali, chiave-valore e altre soluzioni specializzate.
+
+Vedremo anche perché, nel dubbio, un buon database relazionale come PostgreSQL o MySQL è spesso la scelta più sicura, e in quali casi invece conviene uscire dai sentieri battuti. Alla fine avrai una piccola griglia di valutazione da applicare al tuo prossimo progetto.

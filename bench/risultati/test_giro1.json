@@ -1,0 +1,64 @@
+{
+  "gruppi": [
+    {
+      "nome": "IA (test)",
+      "n": 30,
+      "parole_mediane": 174.5,
+      "punteggio_mediano": 79.3,
+      "passa": 0.267,
+      "dubbio": 0.7,
+      "segnalato": 0.033,
+      "ritmo": 98.8,
+      "concretezza": 48.6,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 84.7
+    },
+    {
+      "nome": "umano (social)",
+      "n": 121,
+      "parole_mediane": 101,
+      "punteggio_mediano": 99.4,
+      "passa": 0.975,
+      "dubbio": 0.025,
+      "segnalato": 0.0,
+      "ritmo": 100.0,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 100.0
+    },
+    {
+      "nome": "umano (prosa)",
+      "n": 101,
+      "parole_mediane": 176,
+      "punteggio_mediano": 96.4,
+      "passa": 0.871,
+      "dubbio": 0.109,
+      "segnalato": 0.02,
+      "ritmo": 95.8,
+      "concretezza": 100.0,
+      "slop": 100.0,
+      "impronta": 100.0,
+      "voce": 100.0
+    }
+  ],
+  "auc": {
+    "social": {
+      "auc_totale": 0.97,
+      "ritmo": 0.566,
+      "concretezza": 0.933,
+      "slop": 0.679,
+      "impronta": 0.483,
+      "voce": 0.76
+    },
+    "prosa": {
+      "auc_totale": 0.889,
+      "ritmo": 0.467,
+      "concretezza": 0.819,
+      "slop": 0.537,
+      "impronta": 0.5,
+      "voce": 0.774
+    }
+  }
+}

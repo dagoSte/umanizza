@@ -1,0 +1,15 @@
+Il codice di cui vai più fiero potrebbe essere in un repository privato. E anche se fosse pubblico, chi lo legge vedrebbe il risultato, ma difficilmente capirebbe quali vincoli avevi o perché hai scelto quella soluzione.
+
+Per chi sviluppa software, il personal branding parte da qui. Raccontare come lavori aiuta chi non ha mai lavorato con te a capire che tipo di problemi sai affrontare e come prendi decisioni.
+
+Puoi partire da un episodio concreto.
+
+- Un bug che ti ha fatto cambiare idea su come scrivere un test.
+- Una funzionalità che hai semplificato dopo aver visto come veniva usata.
+- Una scelta tecnica che rifaresti diversamente, con il senno di poi.
+
+Bastano il contesto, la decisione e ciò che hai imparato. Puoi raccontarli in un post, nel README di un progetto o durante un meetup.
+
+Col tempo, questi esempi rendono più facile per qualcuno pensare a te quando cerca un collega o un collaboratore. E quando arrivi a un colloquio, hai già un punto da cui partire per parlare del tuo lavoro.
+
+Quale scelta tecnica recente racconta meglio il tuo modo di lavorare?

@@ -1,0 +1,5 @@
+Il vibe coding aiuta a dare forma a un'idea prima che passi la voglia di lavorarci.
+
+Ma il codice che funziona oggi non è per forza codice che reggerà domani. L'AI accelera la partenza, ma tocca a noi capire, verificare e mantenere il codice che produce.
+
+Usiamolo per sperimentare.

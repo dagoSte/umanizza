@@ -1,0 +1,5 @@
+Il capoluogo toscano è un punto di riferimento per gli appassionati Django e Python. Altre conferenze dello stesso calibro, infatti, scelgono spesso città capaci di unire comunità locali vivaci, spazi accoglienti e occasioni di confronto internazionale. A Firenze, sviluppatori, aziende e curiosi possono incontrarsi per condividere esperienze, presentare progetti e discutere le novità dell’ecosistema.
+
+Il valore di questi appuntamenti va oltre le sessioni in sala. Durante pause, workshop e momenti informali nascono collaborazioni, si scambiano soluzioni concrete e si scoprono strumenti utili per il lavoro quotidiano. Che si tratti di contribuire a un progetto open source o di migliorare un’applicazione esistente, il dialogo tra partecipanti offre spunti preziosi.
+
+Per chi lavora con Python, partecipare significa investire nella propria crescita e sentirsi parte di una comunità che continua a innovare.

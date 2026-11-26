@@ -1,0 +1,31 @@
+Per mesi ho pensato che fosse solo stanchezza.
+
+Chiudevo il laptop alle 20, lo riaprivo alle 22 "solo per controllare una cosa". Le pull request si accumulavano, le notifiche di Slack mi davano un piccolo sussulto ogni volta, e il codice che prima mi appassionava era diventato un elenco infinito di task da spuntare.
+
+Non era stanchezza. Era burnout.
+
+Nel mondo tech ne parliamo poco, ma lo viviamo in tanti. Release continue, reperibilità, tecnologie che cambiano ogni sei mesi, la sensazione costante di dover "stare al passo". È un terreno perfetto per esaurirsi senza accorgersene.
+
+Ecco cosa ho imparato, a mie spese:
+
+🔹 **Riconosci i segnali presto.** Cinismo verso il lavoro, difficoltà di concentrazione, irritabilità, sonno disturbato. Se ti ritrovi a pensare "non me ne importa più niente", non è pigrizia: è un campanello d'allarme.
+
+🔹 **Metti confini chiari.** Notifiche disattivate fuori orario, Slack e mail via dal telefono personale. Un bug alle 23 raramente è un'emergenza vera, e se lo è, esiste un processo di on-call apposta.
+
+🔹 **Smetti di misurarti in output.** Il numero di commit non misura il tuo valore come persona né come professionista. La produttività sostenibile batte sempre lo sprint eroico.
+
+🔹 **Parlane.** Con il tuo manager, con il team, con chi ti sta vicino. Ho scoperto che metà dei miei colleghi stava vivendo la stessa cosa in silenzio. Una conversazione onesta può cambiare priorità, carichi e scadenze.
+
+🔹 **Ritrova qualcosa fuori dallo schermo.** Sport, musica, cucina, una camminata senza cuffie. Il cervello ha bisogno di attività in cui non deve ottimizzare niente.
+
+🔹 **Chiedi aiuto professionale.** Uno psicologo non è l'ultima spiaggia: è uno strumento, come un buon debugger. Molte aziende oggi offrono anche programmi di supporto: usali.
+
+🔹 **Se sei un lead, dai l'esempio.** Se mandi messaggi a mezzanotte, il team capirà che è quello che ci si aspetta. La cultura si costruisce con i comportamenti, non con le slide sul wellbeing.
+
+Il burnout non è un segno di debolezza. È il risultato di troppo carico per troppo tempo, con troppo poco recupero. E si può uscirne.
+
+Il miglior codice che scriverai non nascerà da una notte insonne, ma da una mente riposata.
+
+Tu come gestisci il carico di lavoro? Hai mai vissuto qualcosa di simile? Raccontalo nei commenti: parlarne è già il primo passo. 👇
+
+#burnout #techlife #salutementale #sviluppatori #worklifebalance #benessere

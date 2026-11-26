@@ -1,0 +1,7 @@
+# Serie ZW1 Imada – Sensore a gancio per alti carichi
+
+Il sensore Imada ZW1-10kN è una cella di carico a gancio progettata per misurare forze di trazione fino a 10 kN. Il gancio integrato facilita il collegamento al carico e permette di utilizzare il sensore per misurare la forza esercitata da un carico sospeso. Il cavo spiralato si estende da circa 0,5 a 4 metri, così da poter tenere il display a distanza dal punto di misura. [Scheda tecnica Imada](https://imada.it/pdf/ZUZW1-10kN-e.pdf)
+
+La cella ha un grado di protezione IP67 contro polvere e acqua. Il grado di protezione riguarda il corpo del sensore. Per leggere il valore della forza occorre collegare la cella a un amplificatore compatibile. La scheda tecnica riporta le configurazioni con i dinamometri digitali Imada ZTS e ZTA a sensore esterno. La precisione dichiarata per ciascuna configurazione si riferisce all’insieme di cella e amplificatore. [Configurazioni e dati tecnici](https://imada.it/pdf/ZUZW1-10kN-e.pdf)
+
+Imada ha cessato la produzione dello ZW1-10kN nell’agosto 2024. Se devi sostituire un sensore già installato, indica a Elis Srl il modello del dinamometro, la forza massima prevista e il tipo di attacco necessario per la tua applicazione. [Prodotti fuori produzione Imada](https://www.forcegauge.net/en/discontinued) · [Contatti Elis Srl](https://dinamometri.biz/contatti-2/)

@@ -1,0 +1,9 @@
+Il vibe coding non va demonizzato, però non è la scorciatoia che molti pensano.
+
+Descrivere a un'IA ciò che vuoi e ottenere un'app funzionante è fantastico per prototipi, strumenti interni e per chi non ha mai programmato. Ho visto persone creare in un pomeriggio cose che prima richiedevano settimane. Questo è un bene.
+
+Il problema nasce quando "funziona" viene scambiato per "è fatto bene". Se non capisci cosa genera il modello, non puoi sapere se c'è una falla di sicurezza, un bug nascosto, un database senza protezione. E quando qualcosa si rompe, sei da solo davanti a un codice che non conosci.
+
+Per me il vibe coding è un ottimo punto di partenza, a patto di non rinunciare a capire. Leggi il codice, fai domande al modello, scrivi dei test, rivedi ciò che finisce in produzione.
+
+L'IA amplifica chi sa già cosa sta facendo e rischia di illudere chi ancora non lo sa. La differenza si vedrà quando il progetto crescerà.

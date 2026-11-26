@@ -1,0 +1,107 @@
+{
+ "umani": 262,
+ "generati": 50,
+ "auc": 0.9876,
+ "soglia_099": {
+  "umani_accusati": 15,
+  "quota_umani": 0.0573,
+  "generati_riconosciuti": 48,
+  "quota_generati": 0.96
+ },
+ "soglia_05": {
+  "umani_accusati": 38,
+  "generati_riconosciuti": 50
+ },
+ "per_gruppo_umani": {
+  "web3 articoli": "2/50 (a 0,5: 3)",
+  "web3 azienda": "1/31 (a 0,5: 5)",
+  "web3 blog": "2/50 (a 0,5: 8)",
+  "web3 comunicati": "0/50 (a 0,5: 2)",
+  "web3 servizi": "3/50 (a 0,5: 10)",
+  "ParTUT": "7/31 (a 0,5: 10)"
+ },
+ "per_gruppo_generati": {
+  "gpt-6.2-sol": "10/10 (a 0,5: 10)",
+  "claude-opus-5-5": "9/10 (a 0,5: 10)",
+  "claude-sonnet-5-5": "9/10 (a 0,5: 10)",
+  "gpt-6-luna": "10/10 (a 0,5: 10)",
+  "gpt quinta lettura (31-40)": "10/10 (a 0,5: 10)"
+ },
+ "accusati": [
+  [
+   0.9995,
+   "web3/servizi/servizi_12.txt"
+  ],
+  [
+   0.9995,
+   "web3/azienda/azienda_17.txt"
+  ],
+  [
+   0.9995,
+   "partut/partut_023.txt"
+  ],
+  [
+   0.9994,
+   "partut/partut_010.txt"
+  ],
+  [
+   0.9992,
+   "partut/partut_028.txt"
+  ],
+  [
+   0.9991,
+   "partut/partut_024.txt"
+  ],
+  [
+   0.999,
+   "web3/blog/blog_46.txt"
+  ],
+  [
+   0.999,
+   "partut/partut_021.txt"
+  ],
+  [
+   0.9987,
+   "web3/servizi/servizi_48.txt"
+  ],
+  [
+   0.9985,
+   "partut/partut_014.txt"
+  ],
+  [
+   0.9983,
+   "partut/partut_022.txt"
+  ],
+  [
+   0.9981,
+   "web3/servizi/servizi_26.txt"
+  ],
+  [
+   0.996,
+   "web3/articoli/articoli_01.txt"
+  ],
+  [
+   0.9956,
+   "web3/articoli/articoli_46.txt"
+  ],
+  [
+   0.9941,
+   "web3/blog/blog_10.txt"
+  ]
+ ],
+ "mancati": [
+  [
+   0.7283,
+   "articoli__articoli_23.txt"
+  ],
+  [
+   0.9819,
+   "azienda__azienda_28.txt"
+  ]
+ ],
+ "criteri": {
+  "1_umani_accusati_max_3pc": false,
+  "2_generati_min_85pc": true,
+  "esito": "NON REGGE"
+ }
+}

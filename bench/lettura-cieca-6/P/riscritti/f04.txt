@@ -1,0 +1,11 @@
+# Cybersecurity nelle piccole imprese italiane: un rischio che non si può più ignorare
+
+«Tanto a noi chi vuoi che ci attacchi?» È una frase che si sente ancora troppo spesso negli uffici, nei laboratori artigiani e negli studi professionali di tutta Italia. L'idea di fondo è rassicurante: i criminali informatici puntano alle banche, alle multinazionali, alle grandi istituzioni, non certo all'azienda di famiglia con dodici dipendenti in provincia. Non è così.
+
+Le piccole imprese sono oggi tra i bersagli preferiti degli attacchi informatici, e proprio per le ragioni che le fanno sentire al sicuro. Hanno budget limitati e raramente qualcuno che si occupi solo di sicurezza. Usano spesso sistemi non aggiornati e password condivise tra colleghi. Per chi attacca sono porte socchiuse: meno redditizie di un grande gruppo, certo, ma molto più facili da aprire. Poiché gran parte degli attacchi è ormai automatizzata, nessuno sceglie davvero la vittima. Si colpisce a tappeto e si raccoglie dove le difese sono più deboli.
+
+In un Paese come il nostro le micro e piccole imprese sono la quasi totalità del tessuto produttivo, e il problema va quindi ben oltre il singolo caso. Un ransomware che blocca i computer di un'officina meccanica, una mail di phishing che svuota il conto di uno studio commercialista, un furto di dati che compromette i rapporti con i clienti: episodi così fermano l'attività per giorni e portano costi che nessuno aveva previsto. Nei casi peggiori l'azienda rischia di non sopravvivere. Senza contare che una piccola impresa è spesso l'anello di una filiera più ampia, e una sua vulnerabilità può diventare la via d'accesso a realtà ben più grandi.
+
+Poi ci sono le norme. Dal GDPR alla direttiva NIS2 il quadro è sempre più esigente e chiama in causa anche chi fino a ieri si riteneva fuori dai giochi, a volte direttamente, a volte attraverso le richieste dei propri clienti e fornitori.
+
+Proteggersi, però, non richiede per forza investimenti enormi né competenze da specialisti. Nella maggior parte dei casi bastano buone abitudini e alcune misure di base applicate con costanza, a patto di sapere che cosa si rischia. Partiamo dalle minacce più diffuse per le piccole imprese italiane, poi passiamo agli errori più comuni da evitare e ai primi passi concreti per mettere al sicuro il proprio lavoro.

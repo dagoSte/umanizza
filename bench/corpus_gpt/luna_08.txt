@@ -1,0 +1,5 @@
+Scrivere test non significa dubitare del proprio codice: significa poterlo cambiare con più serenità.
+
+Un test scopre gli errori prima che arrivino alle persone, protegge le parti che funzionano e rende più chiaro cosa dovrebbe fare il programma.
+
+Non serve testare tutto subito. Comincia dal comportamento più importante. Un test alla volta, meno sorprese dopo.

@@ -1,0 +1,7 @@
+Quando si parla di cybersecurity si pensa spesso alle grandi aziende, alle banche e agli ospedali. Eppure tra gli obiettivi più frequenti degli attacchi informatici c'è proprio la piccola impresa italiana: l'artigiano, lo studio professionale, il negozio, la piccola manifattura. Chi attacca cerca la strada più facile, e in una PMI trova spesso difese più deboli e poco personale dedicato, oltre a parecchie abitudini da cambiare.
+
+Le minacce più comuni sono tutt'altro che sofisticate: email di phishing ben fatte, password riutilizzate su più servizi, backup mai verificati, software non aggiornato, accessi condivisi tra troppe persone. Basta un clic sbagliato per bloccare l'attività per giorni, con un costo più alto di quanto un'azienda sia disposta ad ammettere.
+
+Per migliorare la situazione non serve un budget enorme. Gran parte dei rischi reali si copre con l'autenticazione a due fattori sugli account di posta e un gestore di password condiviso, a cui aggiungere backup periodici conservati fuori sede e una breve formazione del personale.
+
+Nei prossimi articoli vedremo, passo dopo passo, come costruire un piano di difesa semplice e sostenibile.

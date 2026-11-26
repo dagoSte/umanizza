@@ -1,0 +1,7 @@
+Quando si parla di intelligenza artificiale si pensa spesso ai modelli, ai chip, alle conversazioni. Dietro a tutto questo ci sono i data center, edifici enormi che consumano elettricità in quantità crescente, e la domanda sulla loro sostenibilità energetica non è più rinviabile.
+
+Il consumo dipende da più fattori: il tipo di server, l'efficienza dei sistemi di raffreddamento, la provenienza dell'energia. Un centro dati alimentato da fonti rinnovabili e con un buon sistema di gestione del calore ha un impatto molto diverso da uno che utilizza energia da fonti fossili e raffreddamento meno efficiente. La trasparenza su questi dati è ancora disomogenea, e questo rende difficile confrontare le scelte.
+
+Ci sono strade concrete. Localizzare le strutture dove l'energia pulita è disponibile, riutilizzare il calore prodotto per scaldare edifici vicini, ottimizzare i carichi di lavoro per ridurre gli sprechi e pubblicare indicatori chiari e verificabili.
+
+La sfida è collettiva: aziende, istituzioni e utenti hanno un ruolo nel chiedere e costruire infrastrutture più sobrie. Il futuro digitale dipende anche da come produciamo l'energia che lo alimenta.

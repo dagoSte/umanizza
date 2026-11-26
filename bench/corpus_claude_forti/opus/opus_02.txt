@@ -1,0 +1,9 @@
+Stai iniziando con Python? Tre consigli che avrei voluto ricevere il primo giorno 🐍
+
+1️⃣ Scrivi codice ogni giorno, anche solo 20 minuti. La costanza batte le maratone del weekend.
+
+2️⃣ Leggi i messaggi di errore. Non sono nemici: ti dicono esattamente cosa non va e in quale riga.
+
+3️⃣ Costruisci qualcosa di tuo. Un convertitore di valute, un bot, uno script che rinomina i file. I progetti veri insegnano più di cento tutorial.
+
+Tu da dove hai cominciato? 👇

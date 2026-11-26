@@ -1,0 +1,11 @@
+Il vibe coding non è il problema. Il problema è chi pensa che basti.
+
+Scrivere software parlando con un'AI è fantastico: prototipi in un pomeriggio, idee che prima restavano nel cassetto, persone che non avevano mai scritto una riga di codice che finalmente costruiscono qualcosa. Lo uso anch'io e non tornerei indietro.
+
+Ma c'è una differenza enorme tra "funziona" e "so perché funziona".
+
+Quando il codice si rompe alle 3 di notte, quando c'è un buco di sicurezza o quando l'app deve reggere mille utenti invece di dieci, il vibe non ti salva. Ti salva capire cosa stai guardando.
+
+Quindi sì al vibe coding, ma come acceleratore, non come sostituto del cervello. Leggi quello che l'AI ti genera. Chiedile di spiegartelo. Rompilo apposta.
+
+L'AI ti fa andare più veloce. Ma la strada devi conoscerla tu.

@@ -1,0 +1,7 @@
+Se negli ultimi mesi avete sentito parlare di MCP senza capire bene di che cosa si tratti, non siete i soli. Il Model Context Protocol è uno standard aperto che definisce come un modello di intelligenza artificiale può collegarsi a strumenti esterni, fonti di dati e servizi, in modo uniforme. Prima di MCP, ogni integrazione era un lavoro a sé: ogni assistente aveva il proprio modo di chiamare un database, un file system o un'API, e ogni volta bisognava riscrivere il collegamento.
+
+Con MCP, chi sviluppa un server che espone, per esempio, l'accesso a un gestionale o a una cartella di documenti, lo scrive una volta sola. Qualsiasi client compatibile può poi usarlo, senza modifiche. È un po' come lo standard delle porte USB: prima di quello, ogni periferica aveva il suo connettore.
+
+Gli sviluppatori scrivono meno codice ripetuto, perché le integrazioni si riusano, e hanno un confine chiaro tra ciò che il modello può fare e ciò che resta sotto il controllo dell'applicazione. In cambio bisogna pensare con attenzione ai permessi, perché un server collegato a dati reali deve essere progettato con la stessa cura di qualsiasi altra API.
+
+Vediamo ora come funziona un server MCP, passo dopo passo.

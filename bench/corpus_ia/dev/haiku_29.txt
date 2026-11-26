@@ -1,0 +1,9 @@
+Ieri abbiamo rilasciato la nuova versione del prodotto, e prima di dire qualsiasi altra cosa voglio ringraziare il team.
+
+Ci sono state notti in cui sembrava che non ce l'avremmo fatta, bug che tornavano dopo essere stati chiusi, scadenze che si avvicinavano più in fretta del previsto. Eppure ognuno di voi ha continuato a fare il proprio pezzo con serietà, pazienza e un bel po' di ironia.
+
+Chi ha scritto il codice, chi ha testato ogni schermata, chi ha risposto ai clienti durante il rilascio, chi ha tenuto insieme le fila del progetto: senza di voi questo risultato non esisterebbe. Un rilascio non è mai il lavoro di una persona sola.
+
+Adesso prendiamoci un momento per festeggiare e riposare. Il lavoro di domani aspetta, ma per oggi siete i migliori.
+
+Grazie di cuore a tutti.

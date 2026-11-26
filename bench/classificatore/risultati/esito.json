@@ -1,0 +1,295 @@
+{
+ "coppie": 465,
+ "addestramento": 395,
+ "validazione": 70,
+ "escluse": [],
+ "detect_py": {
+  "confronti": {
+   "prosa~sonnet_haiku": 0.9107,
+   "prosa~gpt": 0.9042,
+   "prosa~opus": 0.9363,
+   "prosa~fable": 0.9413,
+   "social~sonnet_haiku": 0.9865,
+   "social~gpt": 0.9791,
+   "social~opus": 0.9933,
+   "social~fable": 0.9917,
+   "web2~sonnet_haiku": 0.9072,
+   "web2~gpt": 0.8956,
+   "web2~opus": 0.9331,
+   "web2~fable": 0.9342
+  },
+  "auc_media": 0.9428
+ },
+ "base_tfidf": {
+  "nome": "tfidf",
+  "validazione": {
+   "auc": 0.9906,
+   "umani_sopra_05": 6,
+   "gemelli_sotto_05": 2,
+   "coppie": 70
+  },
+  "confronti": {
+   "prosa~sonnet_haiku": 0.9914,
+   "prosa~gpt": 0.9583,
+   "prosa~opus": 0.9251,
+   "prosa~fable": 0.9667,
+   "social~sonnet_haiku": 1.0,
+   "social~gpt": 1.0,
+   "social~opus": 0.9992,
+   "social~fable": 1.0,
+   "web2~sonnet_haiku": 0.9939,
+   "web2~gpt": 0.9682,
+   "web2~opus": 0.9457,
+   "web2~fable": 0.9741
+  },
+  "auc_media": 0.9769,
+  "auc_minima": 0.9251,
+  "umani_giudicati_generati": {
+   "n": 48,
+   "su": 464,
+   "quota": 0.1034,
+   "per_gruppo": {
+    "prosa": 16,
+    "social": 0,
+    "web2": 32
+   }
+  },
+  "generati_riconosciuti": {
+   "n": 139,
+   "su": 150,
+   "per_gruppo": {
+    "sonnet_haiku": "30/30",
+    "gpt": "54/60",
+    "opus": "26/30",
+    "fable": "29/30"
+   }
+  },
+  "extra": {
+   "accademico": {
+    "auc": 0.9867,
+    "umani": 30,
+    "generati": 30,
+    "umani_sopra_05": 13,
+    "generati_sopra_05": 30
+   },
+   "riscritture": {
+    "1": {
+     "testi": 20,
+     "mediana_prima": 0.651,
+     "mediana_dopo": 0.6397,
+     "sotto_05_prima": 2,
+     "sotto_05_dopo": 2
+    },
+    "2": {
+     "testi": 20,
+     "mediana_prima": 0.6815,
+     "mediana_dopo": 0.6904,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "3": {
+     "testi": 20,
+     "mediana_prima": 0.7117,
+     "mediana_dopo": 0.6715,
+     "sotto_05_prima": 2,
+     "sotto_05_dopo": 2
+    },
+    "4": {
+     "testi": 20,
+     "mediana_prima": 0.7,
+     "mediana_dopo": 0.6917,
+     "sotto_05_prima": 1,
+     "sotto_05_dopo": 2
+    },
+    "4b": {
+     "testi": 10,
+     "mediana_prima": 0.7125,
+     "mediana_dopo": 0.7038,
+     "sotto_05_prima": 1,
+     "sotto_05_dopo": 1
+    },
+    "5A": {
+     "testi": 20,
+     "mediana_prima": 0.6801,
+     "mediana_dopo": 0.6888,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "5B": {
+     "testi": 20,
+     "mediana_prima": 0.6801,
+     "mediana_dopo": 0.6939,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "6A": {
+     "testi": 20,
+     "mediana_prima": 0.7381,
+     "mediana_dopo": 0.7475,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "6P": {
+     "testi": 20,
+     "mediana_prima": 0.7381,
+     "mediana_dopo": 0.7504,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    }
+   },
+   "casi_esterni": {
+    "c03 lettura 1, originale": 0.6094,
+    "c03 lettura 1, riscritto (Pangram IA 100%)": 0.6164,
+    "o02 lettura 6, originale (GPTZero IA 100%)": 0.7449,
+    "o02 lettura 6, riscritto (GPTZero IA 100%)": 0.7411
+   }
+  }
+ },
+ "bert": {
+  "nome": "bert",
+  "validazione": {
+   "auc": 0.9976,
+   "umani_sopra_05": 6,
+   "gemelli_sotto_05": 0,
+   "coppie": 70
+  },
+  "confronti": {
+   "prosa~sonnet_haiku": 0.9977,
+   "prosa~gpt": 0.995,
+   "prosa~opus": 0.9634,
+   "prosa~fable": 0.9805,
+   "social~sonnet_haiku": 0.9997,
+   "social~gpt": 0.9996,
+   "social~opus": 0.9953,
+   "social~fable": 0.9981,
+   "web2~sonnet_haiku": 0.9953,
+   "web2~gpt": 0.9954,
+   "web2~opus": 0.9771,
+   "web2~fable": 0.989
+  },
+  "auc_media": 0.9905,
+  "auc_minima": 0.9634,
+  "umani_giudicati_generati": {
+   "n": 32,
+   "su": 464,
+   "quota": 0.069,
+   "per_gruppo": {
+    "prosa": 11,
+    "social": 2,
+    "web2": 19
+   }
+  },
+  "generati_riconosciuti": {
+   "n": 149,
+   "su": 150,
+   "per_gruppo": {
+    "sonnet_haiku": "30/30",
+    "gpt": "60/60",
+    "opus": "29/30",
+    "fable": "30/30"
+   }
+  },
+  "combinazione_con_detect": {
+   "confronti": {
+    "prosa~sonnet_haiku": 0.9835,
+    "prosa~gpt": 0.9783,
+    "prosa~opus": 0.9807,
+    "prosa~fable": 0.9868,
+    "social~sonnet_haiku": 0.999,
+    "social~gpt": 0.9978,
+    "social~opus": 0.9992,
+    "social~fable": 0.9997,
+    "web2~sonnet_haiku": 0.9863,
+    "web2~gpt": 0.9789,
+    "web2~opus": 0.9874,
+    "web2~fable": 0.9906
+   },
+   "auc_media": 0.989
+  },
+  "extra": {
+   "accademico": {
+    "auc": 0.9989,
+    "umani": 30,
+    "generati": 30,
+    "umani_sopra_05": 1,
+    "generati_sopra_05": 29
+   },
+   "riscritture": {
+    "1": {
+     "testi": 20,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "2": {
+     "testi": 20,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "3": {
+     "testi": 20,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "4": {
+     "testi": 20,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "4b": {
+     "testi": 10,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "5A": {
+     "testi": 20,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "5B": {
+     "testi": 20,
+     "mediana_prima": 0.9995,
+     "mediana_dopo": 0.9995,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "6A": {
+     "testi": 20,
+     "mediana_prima": 0.9993,
+     "mediana_dopo": 0.9993,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    },
+    "6P": {
+     "testi": 20,
+     "mediana_prima": 0.9993,
+     "mediana_dopo": 0.9993,
+     "sotto_05_prima": 0,
+     "sotto_05_dopo": 0
+    }
+   },
+   "casi_esterni": {
+    "c03 lettura 1, originale": 0.9993,
+    "c03 lettura 1, riscritto (Pangram IA 100%)": 0.9993,
+    "o02 lettura 6, originale (GPTZero IA 100%)": 0.9993,
+    "o02 lettura 6, riscritto (GPTZero IA 100%)": 0.9992
+   }
+  }
+ },
+ "criteri": {
+  "1_riconoscimento": true,
+  "2_falsi_allarmi": false,
+  "esito": "REGGE IN PARTE"
+ }
+}

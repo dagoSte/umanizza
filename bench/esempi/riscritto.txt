@@ -1,0 +1,7 @@
+L'anno scorso un cliente mi ha chiesto di "mettere l'intelligenza artificiale" nel suo gestionale. Gli ho chiesto cosa gli faceva perdere più tempo. Risposta: le 40 email al giorno di fornitori che chiedono a che punto sono i pagamenti.
+
+Non serviva un chatbot. È bastato uno script che legge la casella, cerca la fattura in MySQL e risponde con la data prevista. Due giorni di lavoro, compresi i test.
+
+Adesso quelle email le gestisce da solo, e la sua impiegata ha smesso di passare le mattine a fare copia e incolla. Il resto del gestionale è rimasto com'era.
+
+Se state pensando di "aggiungere l'IA" da qualche parte, partite da quel tipo di problema: noioso, ripetitivo, misurabile in ore.

@@ -1,0 +1,3 @@
+In una piccola azienda i dati sono parte del lavoro di ogni giorno: ordini, fatture, contatti dei clienti, documenti e progetti. Se un guasto o un errore li cancella, o se li porta via un attacco informatico, l'attività può fermarsi e i problemi che ne nascono sono difficili da risolvere. Per questo il backup è una precauzione concreta.
+
+Fare una copia dei dati, però, non basta. Bisogna decidere quali informazioni salvare e dove conservarle, e poi ogni quanto ripetere la copia. Questa guida spiega come impostare un sistema di backup semplice, adatto a una piccola impresa; vedremo anche come proteggerlo e come verificare che, quando serve, i dati si possano recuperare.

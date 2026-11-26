@@ -1,0 +1,31 @@
+# Il lavoro che verrà: cosa resta a noi quando le macchine imparano a fare (quasi) tutto
+
+Sui libri che parlano di intelligenza artificiale e lavoro ho ormai un pregiudizio: o annunciano l'apocalisse occupazionale, o promettono un'età dell'oro in cui lavoreremo tutti tre ore al giorno. *[Titolo del libro]* di [Nome Autore] mi ha sorpreso perché non fa né l'una né l'altra cosa.
+
+## Di cosa parla
+
+La tesi centrale è semplice: l'IA non sostituisce i mestieri, sostituisce i compiti. Ogni professione è un insieme di attività diverse, alcune facilmente automatizzabili, altre molto meno. Per l'autore, quindi, la domanda da farsi è "come cambierà la composizione del mio lavoro, e chi deciderà come?", più che "quale lavoro sparirà?".
+
+Il saggio si sviluppa in tre parti. La prima ripercorre le grandi ondate di automazione del passato, dal telaio meccanico al computer, e mostra che le previsioni catastrofiche si sono quasi sempre rivelate sbagliate, ma che le transizioni sono state comunque dolorose per chi le ha vissute. La seconda, la più riuscita, entra nel presente e guarda a ciò che accade negli studi legali, nelle redazioni, nei reparti ospedalieri e nei team di sviluppo software dove gli strumenti generativi sono già routine. La terza si spinge sul terreno delle proposte: formazione continua, nuove tutele, redistribuzione dei guadagni di produttività.
+
+## Cosa funziona
+
+Il pregio maggiore è la concretezza. Oltre alle statistiche l'autore racconta casi e persone, e mostra come lo stesso strumento possa arricchire un lavoro o impoverirlo a seconda di come viene introdotto. Il capitolo sul paradosso dei principianti mi ha fatto riflettere: se l'IA svolge i compiti semplici su cui un tempo si facevano le ossa i giovani, come si diventerà esperti domani?
+
+Ho apprezzato anche l'insistenza sul fatto che la tecnologia non è un destino. Che l'IA serva a rendere più capaci i lavoratori o a sorvegliarli e comprimerne i salari dipende da scelte aziendali, sindacali e politiche. È un'ovvietà, forse, ma nel dibattito attuale viene dimenticata spesso.
+
+La scrittura è scorrevole, senza tecnicismi inutili: si legge bene anche senza sapere cosa sia un modello linguistico.
+
+## Cosa convince meno
+
+La terza parte è la più debole. Le proposte sono condivisibili ma restano generiche: "investire nella formazione" lo dicono tutti da trent'anni, e mi sarei aspettato più coraggio su chi paga, con quali strumenti e in quali tempi.
+
+C'è poi un limite inevitabile: il settore si muove così in fretta che alcuni esempi sembrano già datati. E lo sguardo resta concentrato sui lavori d'ufficio e della conoscenza, mentre logistica, cura e lavoro manuale ricevono solo poche pagine frettolose.
+
+## Vale la pena leggerlo?
+
+Sì, soprattutto se cercate una bussola più che una profezia. Se tra dieci anni avrete ancora il vostro posto il libro non lo dice. Aiuta però a farsi domande migliori: quali parti del vostro lavoro hanno davvero valore, quali competenze conviene coltivare, quali decisioni collettive dovremmo pretendere.
+
+Lo consiglio a chi lavora, a chi gestisce persone e a chi sta scegliendo cosa studiare. Chiuso il libro, mi è rimasta l'idea che il futuro del lavoro lo stiamo già costruendo, spesso senza accorgercene.
+
+**Voto: 4 su 5**

@@ -1,0 +1,7 @@
+Se negli ultimi mesi avete frequentato qualche community di sviluppatori, avrete sentito nominare più volte la sigla MCP. Ma cos'è esattamente, e perché tanta attenzione?
+
+MCP sta per Model Context Protocol, un protocollo aperto che definisce un modo standard per collegare i modelli di intelligenza artificiale a strumenti e fonti di dati esterni: database, file system, API, servizi aziendali. Prima, ogni integrazione era un lavoro su misura. Volevi che il tuo assistente leggesse un calendario, interrogasse un database e aprisse un ticket? Tre connettori diversi, scritti ognuno a modo suo, da rifare per ogni applicazione.
+
+MCP cambia il quadro con un approccio simile a quello che l'USB ha portato nel mondo dell'hardware: scrivi un server una volta, e qualunque client compatibile può usarlo. Per chi sviluppa questo significa meno codice di colla, più riuso e la possibilità di dare agli assistenti capacità reali senza vincolarsi a un singolo fornitore.
+
+In questo articolo vediamo come funziona l'architettura, quali sono i concetti chiave (strumenti, risorse, prompt) e come costruire un primo server in pochi minuti. Alla fine capirete se MCP merita un posto nel vostro prossimo progetto.

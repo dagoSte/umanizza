@@ -1,0 +1,9 @@
+Gli agenti AI autonomi, quelli che ricevono un obiettivo e lo perseguono da soli usando strumenti e passaggi intermedi, mi affascinano e mi preoccupano nella stessa misura.
+
+Mi affascinano perché, usati bene, possono fare il lavoro noioso: cercare un bug in una base di codice, riordinare file, preparare una prima bozza di documentazione. Sono già utili oggi, e lo diventeranno sempre di più.
+
+Mi preoccupano perché l'autonomia amplifica gli errori. Un modello che sbaglia in una chat produce una risposta sbagliata. Un agente che sbaglia con accesso a un database o a un sistema di pagamento produce un danno reale. La questione non è se possano agire, ma quanto controllo umano mantenere e in quali punti.
+
+La mia posizione è prudente: permessi minimi, log leggibili, conferme prima delle azioni irreversibili e test rigorosi. Autonomia sì, ma con una porta che si può chiudere.
+
+Voi quanto vi fidate di un agente che lavora senza supervisione?

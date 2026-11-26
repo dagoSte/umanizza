@@ -1,0 +1,9 @@
+Oggi il fine-tuning di un modello linguistico in locale si può fare anche con una sola workstation, a patto di sapere dove mettere le mani. Questa è una guida introduttiva, senza pretese di completezza: indica un percorso chiaro per cominciare senza perdersi.
+
+Si parte dall'obiettivo. Il fine-tuning serve a specializzare un modello su un compito o uno stile preciso, come rispondere con il lessico di un settore o classificare documenti interni; per conoscenze che cambiano spesso, di solito è più adatto un sistema di recupero delle informazioni. Chiarire questo punto evita settimane di lavoro inutile.
+
+Poi si prepara il dataset, e qui poche centinaia di esempi ben scritti e coerenti valgono più di migliaia di esempi rumorosi. Conviene dedicare tempo alla pulizia e verificare a mano un campione.
+
+Nei prossimi paragrafi vedremo la scelta del modello base, le tecniche a basso consumo di memoria come LoRA e come valutare il risultato in modo onesto.
+
+Partiamo dalle basi.

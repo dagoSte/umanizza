@@ -1,0 +1,7 @@
+Supportiamo le aziende che vogliono portare la data science nel cloud e trasformare i dati in decisioni concrete. Il nostro lavoro unisce competenze di analisi, sviluppo e infrastruttura per aiutare i team a creare modelli affidabili e renderli disponibili nei processi quotidiani.
+
+Accompagniamo i clienti nell’adozione di TIBCO Data Science su AWS, dalla pianificazione dell’ambiente alla messa in opera. Il Quick Start consente di distribuire automaticamente la piattaforma, riducendo le attività iniziali e offrendo una base pronta per sperimentare, collaborare e sviluppare soluzioni di machine learning. Ci occupiamo di configurazione, integrazione con i servizi cloud e attenzione ai requisiti di sicurezza, prestazioni e continuità operativa.
+
+Crediamo che una piattaforma efficace debba adattarsi alle persone e agli obiettivi dell’organizzazione. Per questo lavoriamo a stretto contatto con responsabili IT, data scientist e analisti: definiamo insieme le priorità, condividiamo conoscenze e rendiamo più semplice il passaggio dalla prova pilota alla produzione.
+
+Il nostro approccio è pratico e trasparente. Spieghiamo le scelte, documentiamo le configurazioni e lasciamo ai team strumenti e competenze per proseguire in autonomia. Che si tratti di avviare un nuovo progetto o modernizzare un ambiente esistente, aiutiamo a costruire un percorso sostenibile, misurabile e orientato ai risultati.

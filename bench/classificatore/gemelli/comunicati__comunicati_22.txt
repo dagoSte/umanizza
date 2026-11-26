@@ -1,0 +1,13 @@
+**LaCie presenta la scheda di espansione SATA II 3 Gb/s per slot PCI Express**
+
+Milano, 27 novembre 2026. LaCie annuncia la disponibilità della scheda di espansione SATA II 3 Gb/s per slot PCI Express, modello LAPCI3GBES, pensata per professionisti, creativi e appassionati che hanno bisogno di collegare rapidamente nuovi dispositivi di archiviazione a un computer desktop.
+
+La scheda supporta l'interfaccia SATA II con velocità di trasferimento fino a 3 Gb/s, offrendo prestazioni adeguate per unità disco interne ed esterne e per altri dispositivi compatibili. Grazie al collegamento PCI Express, il dispositivo si installa in uno slot libero della scheda madre, senza richiedere modifiche sostanziali all'hardware esistente.
+
+«Con questa scheda vogliamo offrire una soluzione semplice e affidabile a chi lavora con grandi quantità di dati», ha dichiarato un portavoce dell'azienda. «L'installazione è immediata e la compatibilità con i principali sistemi operativi ne facilita l'utilizzo anche a chi non è un tecnico esperto.»
+
+Il prodotto è ideale per ampliare la capacità di archiviazione di postazioni di lavoro, aggiornare computer meno recenti o aggiungere porte SATA a sistemi privi di controller adeguati. La progettazione è pensata per garantire stabilità nel tempo anche in ambienti di lavoro intensivo.
+
+La scheda è disponibile presso i rivenditori autorizzati LaCie e sul sito ufficiale dell'azienda, con garanzia standard del produttore.
+
+Per ulteriori informazioni è possibile contattare l'ufficio stampa LaCie.

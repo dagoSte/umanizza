@@ -1,0 +1,7 @@
+Se hai appena iniziato a programmare in Python, prova così.
+
+1. Parti da qualcosa che useresti davvero. Con un programmino per dividere il conto tra amici puoi fare pratica con input, numeri e condizioni.
+
+2. Se copi un esempio, cambia una riga. Prima di eseguirlo, prova a immaginare che effetto avrà la modifica. Quando lo esegui, vedi se avevi ragione.
+
+3. Se compare un errore, parti dall'ultima riga del messaggio. Lì trovi il tipo di errore. Poi risali alla riga del tuo codice in cui si è verificato.

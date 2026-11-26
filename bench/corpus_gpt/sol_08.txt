@@ -1,0 +1,5 @@
+Il momento in cui apprezzi di più un test è sei mesi dopo averlo scritto, quando stai per cambiare una funzione e non ricordi più perché quel controllo fosse lì.
+
+Un buon test te lo ricorda con un esempio concreto: «Se il pagamento fallisce, il carrello resta intatto». Se la tua modifica svuota il carrello, lo scopri prima che debba dirtelo un cliente.
+
+Se non sai da dove cominciare, parti dall’ultimo bug che hai corretto. Scrivi il test che avresti voluto avere quando è saltato fuori.

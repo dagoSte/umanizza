@@ -1,0 +1,9 @@
+Leggi il file coppie.md: dieci coppie di testi in italiano. In ogni coppia il testo A e il testo B parlano dello stesso argomento e servono allo stesso uso, indicato nel titolo della coppia.
+
+Per ogni coppia rispondi a due domande, leggendo come farebbe un lettore italiano di quel tipo di testo:
+1. meglio: quale si legge meglio, cioè più chiaro, scorrevole, naturale ed efficace per quell'uso? A, B oppure pari.
+2. persona: quale sembra scritto da una persona? A, B oppure pari.
+
+Giudica solo leggendo: non usare skill, script, programmi o strumenti di analisi e non aprire altri file.
+Rispondi solo con un array JSON di 10 oggetti, senza altro testo:
+{"coppia": n, "meglio": "A" | "B" | "pari", "persona": "A" | "B" | "pari", "motivo": "una frase"}

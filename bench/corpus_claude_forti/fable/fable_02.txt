@@ -1,0 +1,9 @@
+Tre consigli per chi inizia con Python 🐍
+
+1. Scrivi codice ogni giorno, anche solo 20 minuti. La costanza batte le maratone del weekend.
+
+2. Non limitarti ai tutorial: costruisci qualcosa di tuo. Un piccolo progetto che ti serve davvero insegna più di dieci corsi.
+
+3. Impara a leggere gli errori. Il traceback non è un nemico: ti dice esattamente cosa non va e dove.
+
+Sbagliare fa parte del percorso. Tu da dove hai iniziato?

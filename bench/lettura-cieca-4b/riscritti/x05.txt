@@ -1,0 +1,5 @@
+Impara JavaScript da zero e crea le tue prime pagine web interattive. Il corso parte dalle basi della programmazione e ti guida, passo dopo passo, dalle prime righe di codice a un progetto completo.
+
+Imparerai a usare variabili, condizioni, cicli e funzioni e a lavorare con array e oggetti, fino a rispondere alle azioni di chi visita una pagina, come un clic o la compilazione di un modulo. Ogni lezione alterna spiegazioni ed esercizi pratici da svolgere direttamente nel browser.
+
+Non serve esperienza di programmazione. Alla fine del corso saprai realizzare una piccola applicazione web, come una lista di cose da fare in cui aggiungere, spuntare ed eliminare attività.

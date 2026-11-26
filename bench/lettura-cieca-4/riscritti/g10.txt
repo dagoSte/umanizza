@@ -1,0 +1,3 @@
+Un corso online di JavaScript per chi non ha mai programmato. Partirai dalle basi: variabili, tipi di dati, condizioni e cicli. Poi scriverai funzioni e userai gli eventi per rendere interattive le pagine web.
+
+Con esercizi guidati e piccoli progetti, scriverai i tuoi primi programmi in JavaScript e avrai una base per continuare a studiare lo sviluppo web.

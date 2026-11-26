@@ -1,0 +1,7 @@
+"Siamo troppo piccoli per interessare agli hacker." È la frase che sento più spesso quando parlo di sicurezza informatica con titolari di piccole imprese italiane. Ed è anche la più pericolosa.
+
+I dati raccontano un'altra storia. Gli attacchi informatici colpiscono sempre più spesso le realtà di dimensioni ridotte, proprio perché sono considerate bersagli facili: meno risorse, meno controlli, poca formazione. Un ransomware che blocca il gestionale, una email di phishing che sembra arrivare dal commercialista, un account compromesso con cui vengono dirottati dei bonifici. Per una piccola azienda, anche pochi giorni di fermo possono essere un colpo durissimo.
+
+La buona notizia è che non servono budget da multinazionale per alzare di molto il livello di protezione. Servono abitudini e un po' di metodo: backup verificati, aggiornamenti regolari, autenticazione a due fattori, password gestite con criterio e dipendenti che sanno riconoscere un messaggio sospetto.
+
+In questo articolo vediamo quali sono i rischi più concreti per una piccola impresa italiana, quali obblighi normativi iniziano a riguardarla e, soprattutto, da quali cinque azioni partire già questa settimana, spendendo poco e ottenendo molto.

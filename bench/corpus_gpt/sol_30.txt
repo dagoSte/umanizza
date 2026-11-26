@@ -1,0 +1,5 @@
+Un data center può consumare meno energia per ogni operazione e, allo stesso tempo, consumarne di più nel complesso se il volume di lavoro cresce. Per questo l’efficienza è solo una parte del bilancio. Contano anche i consumi totali, le emissioni legate all’elettricità e la disponibilità di energia a basse emissioni nelle ore in cui serve.
+
+Ridurre il lavoro inutile, usare meglio i server e ottimizzare il raffreddamento sono interventi concreti. Dove i tempi di risposta lo consentono, anche spostare alcune elaborazioni nelle ore in cui la rete dispone di più energia a basse emissioni può fare la differenza. Pubblicare consumi ed emissioni nel tempo permette di capire quanto incidano queste scelte, soprattutto quando la domanda aumenta.
+
+Il risultato da misurare è quanto costa, in energia e in emissioni, offrire i servizi digitali di cui abbiamo bisogno. È su quel bilancio complessivo che si vede se i progressi tecnologici riescono a tenere il passo con la crescita dei consumi.

@@ -1,0 +1,34 @@
+Scrivere test non ti rallenta. Ti rallenta il bug in produzione alle 23:00 di venerdì. 🧵
+
+—
+
+1/ Un test è una promessa scritta: "questo codice fa esattamente questo". Senza test, quella promessa vive solo nella tua testa. E la tua testa, tra sei mesi, non se la ricorderà.
+
+—
+
+2/ Il vero valore dei test non sta nel trovare bug oggi, ma nel darti il coraggio di cambiare il codice domani. Refactoring senza test non è refactoring: è roulette russa.
+
+—
+
+3/ "Non ho tempo per scrivere test" è come dire "non ho tempo per allacciare la cintura". Il tempo che risparmi adesso lo paghi con gli interessi dopo, di solito nel momento peggiore.
+
+—
+
+4/ I test sono anche la documentazione più onesta che esista. I commenti possono mentire, i README invecchiano. Un test che passa ti dice sempre come funziona davvero il codice.
+
+—
+
+5/ Bonus nascosto: se un pezzo di codice è difficile da testare, spesso è scritto male. I test ti costringono a scrivere funzioni piccole, chiare e con meno dipendenze.
+
+—
+
+6/ Non serve il 100% di coverage. Parti da qui:
+• la logica critica
+• i bug già risolti, così non tornano
+• i casi limite che ti fanno paura
+
+—
+
+7/ Il miglior momento per iniziare a scrivere test era all'inizio del progetto. Il secondo miglior momento è il prossimo commit. ✅
+
+Tu scrivi test? Prima o dopo il codice? 👇

@@ -1,0 +1,15 @@
+{
+  "name": "umanizza",
+  "description": "Marketplace della skill umanizza: humanizer per testi in italiano generati con l'IA.",
+  "owner": {
+    "name": "Stefano D'Agostino"
+  },
+  "plugins": [
+    {
+      "name": "umanizza",
+      "source": "./",
+      "description": "Humanizer per testi in italiano generati con l'IA: lessico dello slop, pulizia automatica e punteggio su cinque controlli.",
+      "version": "1.6.0"
+    }
+  ]
+}

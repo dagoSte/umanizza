@@ -1,0 +1,22 @@
+[
+{"coppia": 1, "meglio": "A", "persona": "A"},
+{"coppia": 2, "meglio": "A", "persona": "A"},
+{"coppia": 3, "meglio": "B", "persona": "B"},
+{"coppia": 4, "meglio": "A", "persona": "B"},
+{"coppia": 5, "meglio": "A", "persona": "B"},
+{"coppia": 6, "meglio": "B", "persona": "B"},
+{"coppia": 7, "meglio": "B", "persona": "B"},
+{"coppia": 8, "meglio": "A", "persona": "pari"},
+{"coppia": 9, "meglio": "B", "persona": "B"},
+{"coppia": 10, "meglio": "A", "persona": "A"},
+{"coppia": 11, "meglio": "A", "persona": "A"},
+{"coppia": 12, "meglio": "B", "persona": "B"},
+{"coppia": 13, "meglio": "B", "persona": "B"},
+{"coppia": 14, "meglio": "A", "persona": "A"},
+{"coppia": 15, "meglio": "A", "persona": "A"},
+{"coppia": 16, "meglio": "B", "persona": "A"},
+{"coppia": 17, "meglio": "A", "persona": "pari"},
+{"coppia": 18, "meglio": "A", "persona": "A"},
+{"coppia": 19, "meglio": "B", "persona": "A"},
+{"coppia": 20, "meglio": "A", "persona": "A"}
+]

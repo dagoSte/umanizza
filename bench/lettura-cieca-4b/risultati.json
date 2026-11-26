@@ -1,0 +1,92 @@
+{
+ "giudici": {
+  "gpt": {
+   "meglio": 5.0,
+   "persona": 7.5,
+   "sceglie_A": 4,
+   "per_testo": {
+    "x04": 1.0,
+    "x07": 0.0,
+    "x02": 1.0,
+    "x03": 0.0,
+    "x09": 1.0,
+    "x06": 0.0,
+    "x05": 1.0,
+    "x01": 0.5,
+    "x10": 0.0,
+    "x08": 0.5
+   }
+  },
+  "claude": {
+   "meglio": 6.0,
+   "persona": 8.0,
+   "sceglie_A": 5,
+   "per_testo": {
+    "x04": 1.0,
+    "x07": 0.0,
+    "x02": 1.0,
+    "x03": 0.0,
+    "x09": 1.0,
+    "x06": 1.0,
+    "x05": 0.0,
+    "x01": 0.5,
+    "x10": 1.0,
+    "x08": 0.5
+   }
+  }
+ },
+ "fedelta": {
+  "x01": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "x02": {
+   "persi": [
+    "«un’ultima modifica»"
+   ],
+   "nuovi": [],
+   "cambiate": 0.04
+  },
+  "x03": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.02
+  },
+  "x04": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.05
+  },
+  "x05": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.01
+  },
+  "x06": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.05
+  },
+  "x07": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.2
+  },
+  "x08": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "x09": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.07
+  },
+  "x10": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.07
+  }
+ }
+}

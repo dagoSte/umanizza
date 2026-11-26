@@ -1,0 +1,9 @@
+Gli agenti AI autonomi sono molto più utili di quanto dicano gli scettici e molto meno affidabili di quanto dicano i venditori.
+
+Vederne uno che legge una codebase, pianifica, modifica i file, lancia i test e corregge i propri errori è davvero impressionante. Per compiti ben delimitati funzionano, e mi fanno risparmiare ore.
+
+Ma appena il compito diventa lungo e ambiguo, i problemi emergono. Gli errori si accumulano, l'agente si convince di una premessa sbagliata e va avanti con grande sicurezza. Il pericolo è che faccia tanto, nella direzione sbagliata, senza avvisarti.
+
+La mia regola per ora: autonomia proporzionale al rischio. Libertà per ciò che è reversibile e facile da controllare, approvazione umana per ciò che tocca dati, soldi o produzione. Permessi minimi, log leggibili, possibilità di tornare indietro.
+
+Con gli agenti il giudizio serve ancora: si scrive meno e si supervisiona di più. E supervisionare bene è un'abilità da imparare.

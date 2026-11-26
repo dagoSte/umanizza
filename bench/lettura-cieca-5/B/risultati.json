@@ -1,0 +1,388 @@
+{
+ "righe": [
+  {
+   "giudice": "gpt",
+   "testo": "c01",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g03",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c08",
+   "meglio": 0.0,
+   "persona": 0.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g09",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g10",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c09",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g07",
+   "meglio": 0.0,
+   "persona": 0.5,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c07",
+   "meglio": 0.0,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g08",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c05",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g02",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g04",
+   "meglio": 1.0,
+   "persona": 0.5,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c04",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g01",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c06",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c10",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c03",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "c02",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g05",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "gpt",
+   "testo": "g06",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c01",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "claude",
+   "testo": "g03",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c08",
+   "meglio": 0.5,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "g09",
+   "meglio": 0.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "claude",
+   "testo": "g10",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c09",
+   "meglio": 0.5,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "g07",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c07",
+   "meglio": 0.0,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "g08",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c05",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "claude",
+   "testo": "g02",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "g04",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c04",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "g01",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c06",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "claude",
+   "testo": "c10",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "claude",
+   "testo": "c03",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "c02",
+   "meglio": 1.0,
+   "persona": 1.0,
+   "A": true
+  },
+  {
+   "giudice": "claude",
+   "testo": "g05",
+   "meglio": 0.5,
+   "persona": 0.5,
+   "A": false
+  },
+  {
+   "giudice": "claude",
+   "testo": "g06",
+   "meglio": 0.5,
+   "persona": 1.0,
+   "A": false
+  }
+ ],
+ "fedelta": {
+  "c01": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.271
+  },
+  "c02": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.273
+  },
+  "c03": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.044
+  },
+  "c04": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.087
+  },
+  "c05": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.155
+  },
+  "c06": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.089
+  },
+  "c07": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.079
+  },
+  "c08": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.016
+  },
+  "c09": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.089
+  },
+  "c10": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.06
+  },
+  "g01": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g02": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g03": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g04": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g05": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g06": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.252
+  },
+  "g07": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g08": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.0
+  },
+  "g09": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.069
+  },
+  "g10": {
+   "persi": [],
+   "nuovi": [],
+   "cambiate": 0.198
+  }
+ },
+ "tutte": 21.5,
+ "fedeli": 20
+}
